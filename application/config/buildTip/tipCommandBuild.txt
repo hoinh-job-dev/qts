@@ -1,0 +1,23 @@
+sudo apt-get update
+sudo apt-get install terminator
+sudo adduser ubuntu
+sudo usermod -aG sudo ubuntu
+sudo a2enmod rewrite
+sudo apt-get install curl -y
+sudo apt-get install git build-essential python libtool autoconf pkg-config -y
+sudo ln -s /usr/bin/libtoolize /usr/bin/libtool
+sudo apt-get install apache2 -y
+sudo service apache2 status
+sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql -y
+sudo service mysql status
+sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt -y
+sudo service mysql restart
+sudo apt-get install php5-curl -y
+sudo apt-get install php5-gd -y
+sudo apt-get install postfix -y
+sudo apt-get install -y libapache2-mod-proxy-html
+sudo apt-get install -y libxml2-dev #dependency
+sudo a2enmod proxy proxy_http
+sudo service apache2 restart
+
+... and then open browser chrome with address: localhost/QT/Opearator.login
