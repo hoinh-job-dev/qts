@@ -1,0 +1,529 @@
+DEBUG - 2026-04-20 00:00:06 --> DB
+DEBUG - 2026-04-20 00:00:06 --> class_exists
+DEBUG - 2026-04-20 00:00:06 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:00:06 --> DB
+DEBUG - 2026-04-20 00:00:06 --> class_exists
+DEBUG - 2026-04-20 00:00:06 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:00:06 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:00:06 --> Operator/editTokenList
+DEBUG - 2026-04-20 00:00:06 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 00:00:06 --> Token_model/build_query_token
+ERROR - 2026-04-20 00:00:06 --> Query error: Table 'LotteToken.t_email_queue_redeem' doesn't exist - Invalid query: SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 1 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 00:01:54 --> DB
+DEBUG - 2026-04-20 00:01:54 --> class_exists
+DEBUG - 2026-04-20 00:01:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:01:54 --> DB
+DEBUG - 2026-04-20 00:01:54 --> class_exists
+DEBUG - 2026-04-20 00:01:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:01:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:01:54 --> Operator/editTokenList
+DEBUG - 2026-04-20 00:01:54 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 00:01:54 --> Token_model/build_query_token
+ERROR - 2026-04-20 00:01:54 --> Query error: Table 'LotteToken.t_email_queue_redeem' doesn't exist - Invalid query: SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 1 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 00:03:43 --> DB
+DEBUG - 2026-04-20 00:03:43 --> class_exists
+DEBUG - 2026-04-20 00:03:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:08:33 --> DB
+DEBUG - 2026-04-20 00:08:33 --> class_exists
+DEBUG - 2026-04-20 00:08:33 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:08:35 --> DB
+DEBUG - 2026-04-20 00:08:35 --> class_exists
+DEBUG - 2026-04-20 00:08:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:08:35 --> DB
+DEBUG - 2026-04-20 00:08:35 --> class_exists
+DEBUG - 2026-04-20 00:08:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:11:13 --> DB
+DEBUG - 2026-04-20 00:11:13 --> class_exists
+DEBUG - 2026-04-20 00:11:13 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:11:14 --> DB
+DEBUG - 2026-04-20 00:11:14 --> class_exists
+DEBUG - 2026-04-20 00:11:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:11:14 --> DB
+DEBUG - 2026-04-20 00:11:14 --> class_exists
+DEBUG - 2026-04-20 00:11:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:12:15 --> DB
+DEBUG - 2026-04-20 00:12:15 --> class_exists
+DEBUG - 2026-04-20 00:12:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:12:16 --> DB
+DEBUG - 2026-04-20 00:12:16 --> class_exists
+DEBUG - 2026-04-20 00:12:16 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:12:17 --> DB
+DEBUG - 2026-04-20 00:12:17 --> class_exists
+DEBUG - 2026-04-20 00:12:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:16:57 --> DB
+DEBUG - 2026-04-20 00:16:57 --> class_exists
+DEBUG - 2026-04-20 00:16:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:16:59 --> DB
+DEBUG - 2026-04-20 00:16:59 --> class_exists
+DEBUG - 2026-04-20 00:16:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:17:49 --> DB
+DEBUG - 2026-04-20 00:17:49 --> class_exists
+DEBUG - 2026-04-20 00:17:49 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:17:49 --> DB
+DEBUG - 2026-04-20 00:17:49 --> class_exists
+DEBUG - 2026-04-20 00:17:49 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:17:49 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:17:49 --> Operator/editTokenList
+DEBUG - 2026-04-20 00:17:49 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 00:17:49 --> Total execution time: 0.0279
+DEBUG - 2026-04-20 00:17:58 --> DB
+DEBUG - 2026-04-20 00:17:58 --> class_exists
+DEBUG - 2026-04-20 00:17:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:17:58 --> DB
+DEBUG - 2026-04-20 00:17:58 --> class_exists
+DEBUG - 2026-04-20 00:17:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:17:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:17:58 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 00:17:58 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 00:17:58 --> Total execution time: 0.0153
+DEBUG - 2026-04-20 00:18:07 --> DB
+DEBUG - 2026-04-20 00:18:07 --> class_exists
+DEBUG - 2026-04-20 00:18:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:07 --> DB
+DEBUG - 2026-04-20 00:18:07 --> class_exists
+DEBUG - 2026-04-20 00:18:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:18:07 --> Operator/logout
+DEBUG - 2026-04-20 00:18:07 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysope123456789012345678901234', '92', '2', '2026/04/20 00:18:07')
+DEBUG - 2026-04-20 00:18:07 --> DB
+DEBUG - 2026-04-20 00:18:07 --> class_exists
+DEBUG - 2026-04-20 00:18:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:07 --> DB
+DEBUG - 2026-04-20 00:18:07 --> class_exists
+DEBUG - 2026-04-20 00:18:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:18:07 --> Operator/login
+DEBUG - 2026-04-20 00:18:07 --> Total execution time: 0.0125
+DEBUG - 2026-04-20 00:18:10 --> DB
+DEBUG - 2026-04-20 00:18:10 --> class_exists
+DEBUG - 2026-04-20 00:18:10 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:10 --> DB
+DEBUG - 2026-04-20 00:18:10 --> class_exists
+DEBUG - 2026-04-20 00:18:10 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:18:10 --> Operator/home
+DEBUG - 2026-04-20 00:18:10 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysope123456789012345678901234', '91', '2', '2026/04/20 00:18:10')
+DEBUG - 2026-04-20 00:18:10 --> Total execution time: 0.0310
+DEBUG - 2026-04-20 00:18:15 --> DB
+DEBUG - 2026-04-20 00:18:15 --> class_exists
+DEBUG - 2026-04-20 00:18:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:15 --> DB
+DEBUG - 2026-04-20 00:18:15 --> class_exists
+DEBUG - 2026-04-20 00:18:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 00:18:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 00:18:15 --> Operator/editTokenList
+DEBUG - 2026-04-20 00:18:15 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 00:18:15 --> Total execution time: 0.0234
+DEBUG - 2026-04-20 00:21:37 --> DB
+DEBUG - 2026-04-20 00:21:37 --> class_exists
+DEBUG - 2026-04-20 00:21:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 07:38:12 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:38:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:38:12 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:38:12 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:38:12 --> DB
+DEBUG - 2026-04-20 07:38:12 --> class_exists
+DEBUG - 2026-04-20 07:38:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:12 --> DB
+DEBUG - 2026-04-20 09:38:12 --> class_exists
+DEBUG - 2026-04-20 09:38:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:12 --> DB
+DEBUG - 2026-04-20 09:38:12 --> class_exists
+DEBUG - 2026-04-20 09:38:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:38:12 --> Operator/login
+DEBUG - 2026-04-20 09:38:12 --> Total execution time: 0.1851
+DEBUG - 2026-04-20 07:38:14 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:38:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:38:14 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:38:14 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:38:14 --> DB
+DEBUG - 2026-04-20 07:38:14 --> class_exists
+DEBUG - 2026-04-20 07:38:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:14 --> DB
+DEBUG - 2026-04-20 09:38:14 --> class_exists
+DEBUG - 2026-04-20 09:38:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:14 --> DB
+DEBUG - 2026-04-20 09:38:14 --> class_exists
+DEBUG - 2026-04-20 09:38:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:38:14 --> Operator/home
+DEBUG - 2026-04-20 09:38:14 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysope123456789012345678901234', '91', '2', '2026/04/20 09:38:14')
+DEBUG - 2026-04-20 09:38:14 --> Total execution time: 0.0439
+DEBUG - 2026-04-20 07:38:36 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:38:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:38:36 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:38:36 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:38:36 --> DB
+DEBUG - 2026-04-20 07:38:36 --> class_exists
+DEBUG - 2026-04-20 07:38:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:36 --> DB
+DEBUG - 2026-04-20 09:38:36 --> class_exists
+DEBUG - 2026-04-20 09:38:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:36 --> DB
+DEBUG - 2026-04-20 09:38:36 --> class_exists
+DEBUG - 2026-04-20 09:38:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:38:36 --> Operator/editTokenList
+DEBUG - 2026-04-20 09:38:36 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:38:36 --> Total execution time: 0.0309
+DEBUG - 2026-04-20 07:38:44 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:38:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:38:44 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:38:44 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:38:44 --> DB
+DEBUG - 2026-04-20 07:38:44 --> class_exists
+DEBUG - 2026-04-20 07:38:44 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:44 --> DB
+DEBUG - 2026-04-20 09:38:44 --> class_exists
+DEBUG - 2026-04-20 09:38:44 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:44 --> DB
+DEBUG - 2026-04-20 09:38:44 --> class_exists
+DEBUG - 2026-04-20 09:38:44 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:44 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:38:44 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 09:38:44 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:38:44 --> Total execution time: 0.0396
+DEBUG - 2026-04-20 07:38:50 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:38:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:38:50 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:38:50 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:38:50 --> DB
+DEBUG - 2026-04-20 07:38:50 --> class_exists
+DEBUG - 2026-04-20 07:38:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:50 --> DB
+DEBUG - 2026-04-20 09:38:50 --> class_exists
+DEBUG - 2026-04-20 09:38:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:50 --> DB
+DEBUG - 2026-04-20 09:38:50 --> class_exists
+DEBUG - 2026-04-20 09:38:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:38:50 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:38:50 --> Operator/resendEmail
+ERROR - 2026-04-20 09:38:50 --> Query error: Unknown column 'delete_flag' in 'where clause' - Invalid query: 
+            SELECT t1.*
+            FROM `t_email_queue` AS t1 
+            WHERE `delete_flag` = 0
+         AND create_at >= '2026/04/20 00:00:00' AND create_at <= '2026/04/20 23:59:59' ORDER BY id desc 
+DEBUG - 2026-04-20 09:38:50 --> Total execution time: 0.0415
+DEBUG - 2026-04-20 07:40:21 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:22 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:22 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:22 --> DB
+DEBUG - 2026-04-20 07:40:22 --> class_exists
+DEBUG - 2026-04-20 07:40:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:22 --> DB
+DEBUG - 2026-04-20 09:40:22 --> class_exists
+DEBUG - 2026-04-20 09:40:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:22 --> DB
+DEBUG - 2026-04-20 09:40:22 --> class_exists
+DEBUG - 2026-04-20 09:40:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:22 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 09:40:22 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:40:22 --> Total execution time: 0.0256
+DEBUG - 2026-04-20 07:40:26 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:26 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:26 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:26 --> DB
+DEBUG - 2026-04-20 07:40:26 --> class_exists
+DEBUG - 2026-04-20 07:40:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:26 --> DB
+DEBUG - 2026-04-20 09:40:26 --> class_exists
+DEBUG - 2026-04-20 09:40:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:26 --> DB
+DEBUG - 2026-04-20 09:40:26 --> class_exists
+DEBUG - 2026-04-20 09:40:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:26 --> Operator/editTokenList
+DEBUG - 2026-04-20 09:40:26 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:40:26 --> Total execution time: 0.0128
+DEBUG - 2026-04-20 07:40:30 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:30 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:30 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:30 --> DB
+DEBUG - 2026-04-20 07:40:30 --> class_exists
+DEBUG - 2026-04-20 07:40:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:30 --> DB
+DEBUG - 2026-04-20 09:40:30 --> class_exists
+DEBUG - 2026-04-20 09:40:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:30 --> DB
+DEBUG - 2026-04-20 09:40:30 --> class_exists
+DEBUG - 2026-04-20 09:40:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:30 --> Operator/resendEmail
+ERROR - 2026-04-20 09:40:30 --> Query error: Unknown column 'delete_flag' in 'where clause' - Invalid query: 
+            SELECT t1.*
+            FROM `t_email_queue` AS t1 
+            WHERE `delete_flag` = 0
+         AND create_at >= '2026/04/20 00:00:00' AND create_at <= '2026/04/20 23:59:59' ORDER BY id desc 
+DEBUG - 2026-04-20 09:40:30 --> Total execution time: 0.0170
+DEBUG - 2026-04-20 07:40:34 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:34 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:34 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:34 --> DB
+DEBUG - 2026-04-20 07:40:34 --> class_exists
+DEBUG - 2026-04-20 07:40:34 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:34 --> DB
+DEBUG - 2026-04-20 09:40:34 --> class_exists
+DEBUG - 2026-04-20 09:40:34 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:34 --> DB
+DEBUG - 2026-04-20 09:40:34 --> class_exists
+DEBUG - 2026-04-20 09:40:34 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:34 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:34 --> Operator/changePasswd
+DEBUG - 2026-04-20 09:40:34 --> Total execution time: 0.0191
+DEBUG - 2026-04-20 07:40:38 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:38 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:38 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:38 --> DB
+DEBUG - 2026-04-20 07:40:38 --> class_exists
+DEBUG - 2026-04-20 07:40:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:38 --> DB
+DEBUG - 2026-04-20 09:40:38 --> class_exists
+DEBUG - 2026-04-20 09:40:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:38 --> DB
+DEBUG - 2026-04-20 09:40:38 --> class_exists
+DEBUG - 2026-04-20 09:40:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:38 --> Operator/uploadDocs
+DEBUG - 2026-04-20 09:40:38 --> Total execution time: 0.0193
+DEBUG - 2026-04-20 07:40:47 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:47 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:47 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:47 --> DB
+DEBUG - 2026-04-20 07:40:47 --> class_exists
+DEBUG - 2026-04-20 07:40:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:47 --> DB
+DEBUG - 2026-04-20 09:40:47 --> class_exists
+DEBUG - 2026-04-20 09:40:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:47 --> DB
+DEBUG - 2026-04-20 09:40:47 --> class_exists
+DEBUG - 2026-04-20 09:40:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:47 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 09:40:47 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:40:47 --> Total execution time: 0.0466
+DEBUG - 2026-04-20 07:40:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:52 --> DB
+DEBUG - 2026-04-20 07:40:52 --> class_exists
+DEBUG - 2026-04-20 07:40:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:52 --> DB
+DEBUG - 2026-04-20 09:40:52 --> class_exists
+DEBUG - 2026-04-20 09:40:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:52 --> DB
+DEBUG - 2026-04-20 09:40:52 --> class_exists
+DEBUG - 2026-04-20 09:40:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:52 --> Operator/editTokenList
+DEBUG - 2026-04-20 09:40:52 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:40:52 --> Total execution time: 0.0161
+DEBUG - 2026-04-20 07:40:57 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:40:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:40:57 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:40:57 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:40:57 --> DB
+DEBUG - 2026-04-20 07:40:57 --> class_exists
+DEBUG - 2026-04-20 07:40:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:57 --> DB
+DEBUG - 2026-04-20 09:40:57 --> class_exists
+DEBUG - 2026-04-20 09:40:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:57 --> DB
+DEBUG - 2026-04-20 09:40:57 --> class_exists
+DEBUG - 2026-04-20 09:40:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:40:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:40:57 --> Operator/resendEmail
+ERROR - 2026-04-20 09:40:57 --> Query error: Unknown column 'delete_flag' in 'where clause' - Invalid query: 
+            SELECT t1.*
+            FROM `t_email_queue` AS t1 
+            WHERE `delete_flag` = 0
+         AND create_at >= '2026/04/20 00:00:00' AND create_at <= '2026/04/20 23:59:59' ORDER BY id desc 
+DEBUG - 2026-04-20 09:40:57 --> Total execution time: 0.0212
+DEBUG - 2026-04-20 07:48:59 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:48:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:48:59 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:48:59 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:48:59 --> DB
+DEBUG - 2026-04-20 07:48:59 --> class_exists
+DEBUG - 2026-04-20 07:48:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:48:59 --> DB
+DEBUG - 2026-04-20 09:48:59 --> class_exists
+DEBUG - 2026-04-20 09:48:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 07:50:09 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:50:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:50:09 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:50:09 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:50:09 --> DB
+DEBUG - 2026-04-20 07:50:09 --> class_exists
+DEBUG - 2026-04-20 07:50:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:50:09 --> DB
+DEBUG - 2026-04-20 09:50:09 --> class_exists
+DEBUG - 2026-04-20 09:50:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:50:09 --> DB
+DEBUG - 2026-04-20 09:50:09 --> class_exists
+DEBUG - 2026-04-20 09:50:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:50:09 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:50:09 --> Operator/editTokenList
+DEBUG - 2026-04-20 09:50:09 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:50:09 --> Total execution time: 0.0329
+DEBUG - 2026-04-20 07:52:39 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 07:52:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 07:52:39 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 07:52:39 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 07:52:39 --> DB
+DEBUG - 2026-04-20 07:52:39 --> class_exists
+DEBUG - 2026-04-20 07:52:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:52:39 --> DB
+DEBUG - 2026-04-20 09:52:39 --> class_exists
+DEBUG - 2026-04-20 09:52:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:52:39 --> DB
+DEBUG - 2026-04-20 09:52:39 --> class_exists
+DEBUG - 2026-04-20 09:52:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 09:52:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 09:52:39 --> Operator/editTokenList
+DEBUG - 2026-04-20 09:52:39 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 09:52:39 --> Token_model/build_query_token
+DEBUG - 2026-04-20 08:15:23 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:15:23 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:15:23 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:15:23 --> DB
+DEBUG - 2026-04-20 08:15:23 --> class_exists
+DEBUG - 2026-04-20 08:15:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:15:23 --> DB
+DEBUG - 2026-04-20 10:15:23 --> class_exists
+DEBUG - 2026-04-20 10:15:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:15:23 --> DB
+DEBUG - 2026-04-20 10:15:23 --> class_exists
+DEBUG - 2026-04-20 10:15:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:15:23 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:15:23 --> Operator/editTokenList
+DEBUG - 2026-04-20 10:15:23 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:15:23 --> Token_model/build_query_token
+DEBUG - 2026-04-20 08:16:31 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:16:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:16:31 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:16:31 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:16:31 --> DB
+DEBUG - 2026-04-20 08:16:31 --> class_exists
+DEBUG - 2026-04-20 08:16:31 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:16:31 --> DB
+DEBUG - 2026-04-20 10:16:31 --> class_exists
+DEBUG - 2026-04-20 10:16:31 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 08:17:48 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:17:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:17:48 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:17:48 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:17:48 --> DB
+DEBUG - 2026-04-20 08:17:48 --> class_exists
+DEBUG - 2026-04-20 08:17:48 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:17:48 --> DB
+DEBUG - 2026-04-20 10:17:48 --> class_exists
+DEBUG - 2026-04-20 10:17:48 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:17:48 --> DB
+DEBUG - 2026-04-20 10:17:48 --> class_exists
+DEBUG - 2026-04-20 10:17:48 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:17:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:17:48 --> Operator/editTokenList
+DEBUG - 2026-04-20 10:17:48 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:17:48 --> Token_model/build_query_token
+DEBUG - 2026-04-20 08:18:53 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:18:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:18:53 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:18:53 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:18:53 --> DB
+DEBUG - 2026-04-20 08:18:53 --> class_exists
+DEBUG - 2026-04-20 08:18:53 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:18:53 --> DB
+DEBUG - 2026-04-20 10:18:53 --> class_exists
+DEBUG - 2026-04-20 10:18:53 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:18:53 --> DB
+DEBUG - 2026-04-20 10:18:53 --> class_exists
+DEBUG - 2026-04-20 10:18:53 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:18:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:18:53 --> Operator/editTokenList
+DEBUG - 2026-04-20 10:18:53 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:18:53 --> Token_model/build_query_token
+DEBUG - 2026-04-20 10:18:53 --> SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 1 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 10:18:53 --> Total execution time: 0.0215
+DEBUG - 2026-04-20 08:19:06 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:19:06 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:19:06 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:19:06 --> DB
+DEBUG - 2026-04-20 08:19:06 --> class_exists
+DEBUG - 2026-04-20 08:19:06 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:19:06 --> DB
+DEBUG - 2026-04-20 10:19:06 --> class_exists
+DEBUG - 2026-04-20 10:19:06 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:19:06 --> DB
+DEBUG - 2026-04-20 10:19:06 --> class_exists
+DEBUG - 2026-04-20 10:19:06 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:19:06 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:19:06 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 10:19:06 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:19:06 --> Token_model/build_query_token
+DEBUG - 2026-04-20 10:19:06 --> SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 2 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 10:19:06 --> Total execution time: 0.0188
+DEBUG - 2026-04-20 08:20:45 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:20:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:20:45 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:20:45 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:20:45 --> DB
+DEBUG - 2026-04-20 08:20:45 --> class_exists
+DEBUG - 2026-04-20 08:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:45 --> DB
+DEBUG - 2026-04-20 10:20:45 --> class_exists
+DEBUG - 2026-04-20 10:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:45 --> DB
+DEBUG - 2026-04-20 10:20:45 --> class_exists
+DEBUG - 2026-04-20 10:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:20:45 --> Operator/editTokenList
+DEBUG - 2026-04-20 10:20:45 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:20:45 --> Token_model/build_query_token
+DEBUG - 2026-04-20 10:20:45 --> SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 1 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 10:20:45 --> Total execution time: 0.0170
+DEBUG - 2026-04-20 08:20:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:20:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:20:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:20:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:20:52 --> DB
+DEBUG - 2026-04-20 08:20:52 --> class_exists
+DEBUG - 2026-04-20 08:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:52 --> DB
+DEBUG - 2026-04-20 10:20:52 --> class_exists
+DEBUG - 2026-04-20 10:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:52 --> DB
+DEBUG - 2026-04-20 10:20:52 --> class_exists
+DEBUG - 2026-04-20 10:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:20:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:20:52 --> Operator/issueRedeemToken
+DEBUG - 2026-04-20 10:20:52 --> Token_model/select_filter_token
+DEBUG - 2026-04-20 10:20:52 --> Token_model/build_query_token
+DEBUG - 2026-04-20 10:20:52 --> SELECT  t1.id as token_id  , t1.order_number  , t3.user_hash , t3.uid as client_uid  , t3.family_name as client_familyname  , t3.first_name as client_firstname  , t4.is_sent  , t1.is_payed  , t1.create_at  , t1.update_at  , t4.type FROM t_token as t1  left outer join t_order as t2    on t1.order_number = t2.order_number   AND (t2.status >= 32 AND t2.status <> 41 AND t2.status <> 42) left outer join t_user as t3    on t2.client_uid = t3.user_hash  left outer join t_email_queue_redeem as t4    on t2.order_number = t4.object AND t4.type = 2 WHERE  t1.delete_flag=0  and t1.create_at >= '2026/04/14' and t1.create_at < DATE_ADD('2026/04/20', interval 1 day) GROUP BY t1.order_number 
+DEBUG - 2026-04-20 10:20:52 --> Total execution time: 0.0166
+DEBUG - 2026-04-20 08:21:07 --> UTF-8 Support Enabled
+DEBUG - 2026-04-20 08:21:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-20 08:21:07 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-20 08:21:07 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-20 08:21:07 --> DB
+DEBUG - 2026-04-20 08:21:07 --> class_exists
+DEBUG - 2026-04-20 08:21:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:21:07 --> DB
+DEBUG - 2026-04-20 10:21:07 --> class_exists
+DEBUG - 2026-04-20 10:21:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:21:07 --> DB
+DEBUG - 2026-04-20 10:21:07 --> class_exists
+DEBUG - 2026-04-20 10:21:07 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-20 10:21:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-20 10:21:07 --> Operator/login
+DEBUG - 2026-04-20 10:21:07 --> Total execution time: 0.0123

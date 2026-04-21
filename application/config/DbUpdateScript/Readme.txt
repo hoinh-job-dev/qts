@@ -1,0 +1,1 @@
+2016/09/22 Delete all script ver2.0

@@ -1,0 +1,1 @@
+ALTER TABLE t_personal ADD COLUMN sex tinyint(1) DEFAULT 0 AFTER email ;

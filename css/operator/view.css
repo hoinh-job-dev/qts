@@ -1,0 +1,603 @@
+.l-page {
+    padding: 40px 0 30px 0;
+    margin: 0 0 0 260px;
+    font-size: 12px;
+}
+
+.l-page input[type="text"],
+select {
+    font-size: 12px;
+}
+
+.l-page .whitebox {
+    width: 90%;
+    padding: 10px;
+}
+
+.l-page h2 {
+    margin: 0 0 35px;
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 35px;
+}
+
+
+/********************************
+ * ボタン
+ ********************************/
+
+ul#button {
+    text-align: right;
+}
+
+ul#button li {
+    display: inline;
+}
+
+input#update {
+    margin: 10px 5% 10px 0;
+    width: 100px;
+    height: 2em;
+    border: 0;
+    border-radius: 5px;
+    background-color: #f00;
+    color: #fff;
+}
+
+
+/********************************
+ * 入力項目
+ ********************************/
+
+td input[type="text"],
+textarea,
+td select {
+    background-color: #ffc;
+    border: 0px solid #666;
+}
+
+td input[type="text"],
+textarea {
+    height: 1em;
+}
+
+td select {
+    height: 2.5em;
+    padding: 0;
+}
+.row select {
+    height: 3.2em;
+}
+
+
+/********************************
+ * 領域, テーブル
+ ********************************/
+
+th {
+  overflow: hidden;
+  text-align: center;
+  background-color: #18bc9c;
+  color: #fff;
+}
+td {
+  word-break: break-all;
+}
+
+div#tableBody {
+    max-width: 960px;
+    overflow-y: scroll;
+}
+
+div#tableHead>table,
+div#tableBody>table {
+    max-width: 960px;
+    border-collapse: collapse;
+    border-top: 1px solid #666;
+    border-left: 1px solid #666;
+}
+
+div#tableHead th {
+    border-right: 1px solid #666;
+}
+
+div#tableBody th,
+div#tableHead td,
+div#tableBody td {
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+
+
+/*-------------- overview --------------*/
+
+div#tableHead_main,
+div#tableHead_sub,
+div#tableBody_main,
+div#tableBody_sub {
+    float: left;
+}
+
+div#tableHead_main table,
+div#tableHead_sub table,
+div#tableBody_main table,
+div#tableBody_sub table {
+    border-collapse: collapse;
+}
+
+div#tableHead_main table {
+    border-top: 1px solid #666;
+    border-left: 1px solid #666;
+}
+
+div#tableHead_sub table {
+    border-top: 1px solid #666;
+}
+
+div#tableBody_main table {
+    border-left: 1px solid #666;
+}
+
+div#tableHead_main th,
+div#tableBody_main td,
+div#tableHead_sub th,
+div#tableBody_sub td {
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+div#tableHead_sub,
+div#tableBody_sub {
+    overflow-x: scroll;
+}
+
+div#tableBody_main,
+div#tableBody_sub {
+    overflow-y: scroll;
+}
+
+div#tableHead_main,
+div#tableHead_main table,
+div#tableBody_main,
+div#tableBody_main table {
+    width: 500px;
+}
+
+div#tableHead_sub,
+div#tableBody_sub {
+    width: 460px;
+}
+
+div#tableHead_sub table,
+div#tableBody_sub table {
+    width: 1600px;
+}
+
+l-page .whitebox,
+#table {
+    min-height: 700px;
+}
+
+div#tableBody,
+div#tableBody_main,
+div#tableBody_sub {
+    height: 570px;
+}
+
+
+/*-------------- personal --------------*/
+
+td.personal th {
+    border-right: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+
+td.personal td {
+    border-bottom: 1px solid #666;
+}
+
+
+/********************************
+ * 表の列
+ ********************************/
+
+.personal {
+    width: 360px;
+    text-align: center;
+}
+
+.document {
+    width: 450px;
+}
+
+.approval_result {}
+
+th {
+    text-align: center;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.no {
+    width: 30px;
+    text-align: center;
+}
+
+.uid {
+    width: 70px;
+    text-align: center;
+}
+
+.hash {
+    width: 300px;
+}
+
+.role {
+    width: 75px;
+    text-align: center;
+}
+
+.type {
+    width: 60px;
+    text-align: center;
+}
+
+.name {
+    width: 150px;
+}
+
+.pay_method {
+    width: 50px;
+    text-align: center;
+}
+
+.email {
+    width: 250px;
+}
+
+.tel {
+    width: 120px;
+}
+
+.zip {
+    width: 80px;
+}
+
+.amount {
+    width: 100px;
+    text-align: right;
+}
+
+.rate {
+    width: 150px;
+}
+
+.status {
+    width: 75px;
+    text-align: center;
+}
+
+.addr {
+    width: 180px;
+}
+
+.date {
+    width: 170px;
+    text-align: center;
+}
+
+.filename {
+    width: 230px;
+}
+
+
+/* add by Hoang*/
+
+table {
+    table-layout: fixed;
+}
+
+div#tableHead_main,
+div#tableHead_sub,
+div#tableBody_main,
+div#tableBody_sub {
+    width: 50%;
+}
+
+div#tableHead_main table,
+div#tableHead_sub table,
+div#tableBody_main table,
+div#tableBody_sub table {
+    width: 100%;
+}
+
+.whitebox table .status,
+.whitebox table .uid,
+.whitebox table .uid,
+.whitebox table .role,
+.whitebox table .type {
+    width: 15%;
+}
+
+.whitebox table .name {
+    width: 25%;
+}
+
+#tableHead_main th.name {
+    width: 28%;
+}
+
+div#tableBody,
+div#tableBody_main,
+div#tableBody_sub {
+    height: 459px;
+}
+
+.search .row {
+    width: 23%;
+    float: left;
+    margin: 1%;
+}
+
+.search .row input {
+    padding: 10px;
+}
+
+.search .row-search input {
+    margin: 10px;
+}
+
+.search .row-order {
+    width: 48%;
+}
+
+.clear {
+    clear: both;
+}
+
+.search-bank .row {
+    width: 31%;
+}
+
+.search-order .row {
+    width: 23%;
+
+}
+
+@media screen and (max-width: 1100px) {
+    .search .row {
+        width: 48%;
+        margin: 1%;
+    }
+    .search .row-order {
+        width: 98%;
+        clear: both;
+        margin: 1%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .search .row-order {
+        width: 98%;
+        clear: both;
+        margin: 1%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .search .row {
+        width: 98%;
+        clear: both;
+        margin: 1%;
+    }
+    .search .row-order {
+        width: 98%;
+        clear: both;
+        margin: 1%;
+    }
+}
+
+#search .row-search {
+    width: 100%;
+    clear: both;
+    text-align: right;
+    margin: 0;
+}
+
+.search-bank,
+#search {
+    float: left;
+    background: #fff;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#tableBody_sub {
+    overflow-x: hidden;
+}
+
+.view-banking-list table,
+.view-banking-list #tableBody {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.view-banking-list table th,
+.view-banking-list table td {}
+
+.view-banking-list table {}
+
+div#tableHead table,
+div#tableBody,
+div#tableBody table {
+    max-width: 100% !important;
+    width: 100%;
+}
+
+div#tableHead table th,
+div#tableBody table td {
+    width: 6.6% !important;
+}
+
+
+
+/* end by Hoang*/
+
+.invalid_order_amount {
+    background-color: #ee5656;
+}
+
+.l-page-ope-man .row {
+    width:30%;
+    float:left;
+    margin:10px;
+}
+
+.l-page-ope-man .row-ope-man {
+    width:45%;
+}
+
+.ope-man-head .row-submit {
+    width:20%;
+    float:left;
+    margin: 0;
+}
+.ope-man-head .row-submit input{
+    margin: 0;
+}
+
+.l-page-ope-man div.whitebox {
+    min-height: 70px;
+    float: left;
+    width: 100%;
+}
+.l-page-ope-man .row select {
+    height: 3.9em;
+}
+
+.l-page-ope-man a.button-link {
+    height: 3.6rem;
+    width: 140px;
+    color: #FFF;
+    border: none;
+    background: #333;
+    text-align: center;
+    display: block;
+    padding: 5px;
+    margin: auto;
+}
+
+.l-page-ope-man div.row-half {
+    width: 50% ;
+    float:left;
+    margin: 0;
+}
+.row-half input{
+    margin:auto !important;
+}
+
+.row-condition-search{
+    padding-left: 10px;
+}
+@media screen and (max-width: 1100px) {
+
+    .row-condition-search {
+        width: 98%;
+        clear: both;
+        margin: 1%;
+    }
+}
+
+
+.agent-commission-table .head {
+    background: #e4e3e3;
+}
+
+.table-dialog {
+    max-width: 960px;
+    border-collapse: collapse;
+    padding-top:10px;
+    margin: auto;
+
+}
+.table-dialog th{
+    background-color: #78790c;
+    color: #fff;
+    border: 1px solid #666;
+}
+.table-dialog td{
+    border: 1px solid #666;
+}
+.ui-widget-header {
+    background-color : #a5a494;
+}
+
+.textLeft {
+    width: 100px;
+    text-align: left;
+    border-top: 1px solid #666;
+    border-left: 1px solid #666;
+}
+
+.l-page-ope-man .error_link {
+    margin-left: 20px;
+}
+
+.error_link:hover{
+    color:red;
+    font-size:15px;
+    font-weight:bold-italic;
+}
+
+.table-data {
+    width:100%;
+    border-collapse: collapse;
+    padding-top:10px;
+    margin: auto;
+    background: white;
+
+}
+.table-data th{
+    border: 1px solid #666;
+}
+.table-data td{
+    border: 1px solid #666;
+}
+.data-uid{
+    width:10%;
+    text-align: center;
+}
+th.data-rate  {
+    text-align: center;
+}
+.data-rate {
+    width:20%;
+    padding-right:10px;
+    text-align: right;
+}
+
+.button-return  {
+    height: 3.6rem;
+    width: 140px;
+    color: #FFF;
+    border: none;
+    background: #333;
+    text-align: center;
+    display: block;
+    padding: 5px;
+    margin: auto;
+}
+input.button-return:hover {
+    opacity: .7;
+    transition: all .3s;
+}
+
+.table-dialog.full-width{
+    width: 100% !important;
+    max-width: inherit;
+}
+.group-line{
+    clear: both;
+}

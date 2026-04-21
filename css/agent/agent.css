@@ -1,0 +1,27 @@
+.view-account {}
+
+.view-account table {
+	width: 100%;
+}
+
+.view-account table th {
+    width: 30%;
+}
+
+.view-account table th,
+.view-account table td {
+    padding: 5px 0;
+}
+
+.view-account .error {
+	color: #ff0000;
+}
+
+.view-account .info {
+	color: green;
+}
+
+.view-account .rule{
+    margin-left: 20px;
+    font-size: smaller;
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <title>Operator Flow</title>
+        <style>
+            body {
+                color: #666;
+            }
+            h2 {
+                padding: 0 3px;
+                border-bottom: 3px double #666;
+            }
+            h3 {
+                padding: 0 3px;
+                background-color: #ddd;
+            }
+            div {
+                background-color: #fff;
+                margin: 0 auto 50px;
+                width: 80%;
+            }
+            table {
+                border-top: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                border-collapse: collapse;
+                margin: 5px;
+            }
+            td.th {
+                white-space: nowrap;
+            }
+            td {
+                border-right: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+                padding: 0 3px;
+            }
+        </style>
+    </head>
+
+    <body style="margin:0;padding:0;">
+        <div style="border:3px double red;color:red;width:1274px;">
+            *オペレータ画面はPCで、画面を最大化してご利用ください。<br>
+            目安は、横幅が1280ピクセル以上です。この四角がすべて収まる幅です。<br>
+            目安以下では、レイアウトが崩れる可能性があります。
+        </div>
+        <div>
+            <h2>システム概要</h2>
+            <p>本システムは、Quantaに対して「誰が」「いくら」投資してくれているかをトークン(還元コード)という形で記録することを目的としています。</p>
+            <p>本システムの利用者は、ユーザー側に「代理店(マーケター)」「購入者(交換希望者)」、サービス運用側に「オペレーター」がいます。</p>
+            <p>(参考) Quantaとは、CARDANO Labo.が現在開発中の、Blockchain上で全自動の宝くじプラットフォームです。Vietnamの開発拠点で日々企画が進められています。</p>
+        </div>
+
+        <div>
+            <h2>アクター</h2>
+            <table>
+                <tr><td class="th">代理店</td><td>本サービスのユーザーで、トークン販売を広めるマーケター。代理店網を広めることと投資家へQuantaを紹介する活動を行う。<br>個人情報を登録してオペレーターの審査で認証された後に、代理店として活動を開始できる。</td></tr>
+                <tr><td class="th">交換希望者</td><td>本サービスのユーザーで、実際に投資を行うトークンの所有者。<br>個人情報を登録してオペレータの審査で認証された後に、入金された金額に応じたトークンが発行される。後にトークンをQuantaに交換できる。</td></tr>
+                <tr><td class="th">オペレーター</td><td>本サービスの運用者。主にKYC審査と注文の進捗管理、お金の管理を行う。</td></tr>
+            </table>
+        </div>
+
+
+        <div>
+            <h2>オペレーターの作業</h2>
+            <h3>KYC審査</h3>
+            <p>前提 : 本サービスを利用するユーザーには予め個人情報と身分証明書を登録してもらう。KYC/AML対策のためです。</p>
+            <ol>
+                <li>本システムの画面にてユーザーの個人情報と身分証明書を確認する。</li>
+                <li>KYC/AML基準に従い、ユーザーを審査する。(例)対象年齢など</li>
+                <li>本システムの画面にてユーザの審査結果を登録する。</li>
+                <li>ユーザーが承認された場合、本システムがユーザーに応じて次のアクションを行う。<ul>
+                        <li>代理店へ承認を通知し、本サービスが使えるようになったことを伝える</li>
+                        <li>交換希望者(銀行振込)へ承認を通知し、銀行振込先を伝える</li>
+                        <li>交換希望者(BTC送金)へ承認を通知し、後に送金先のビットコインアドレスを伝えることを伝える</li></ul></li>
+            </ol>
+
+            <h3>注文の進捗管理</h3>
+            <p>前提 : 交換希望者から投資の申し込み(トークンの注文)があった時に対応する。</p>
+            <ol>
+                <li>本システムの画面にて入金待ちの注文一覧を確認する。</li>
+                <li>入金を確認する。<ul>
+                        <li>銀行振込のユーザーの場合、銀行口座の振込履歴を確認する。</li>
+                        <li>BTC送金のユーザーの場合、BlockExplorerでそのユーザーに伝えたビットコインアドレスの状態を確認する。</li></ul></li>
+                <li>本システムの画面にて入金された金額を入力する。</li>
+                <li>銀行振込の場合はJPY/BTCで換金して、改めて換金結果をシステムに入力する。</li>
+                <li>BTCの着金が確認できたら(上記"注文の進捗管理"の3.または4.)、本システムがBTC/USDを経由してUSD/QuantaTokenを換算する。<br>
+                    同時に本システムが代理店へ支払うコミッション金額を計算してシステムに登録する。<br>
+                    その後、本システムが還元コードを発行してユーザーへメールで通知する。</li>
+            </ol>
+
+            <h3>お金の管理</h3>
+            <ol>
+                <li>銀行振込のJPYの扱いは、<ol>
+                        <li>銀行振込を確認したら本システムの画面から金額を入力する</li>
+                        <li>JPY/BTCの換金レートを調べて、入金されたJPYに相当するBTCを算出する</li>
+                        <li>算出したBTCを会社のWalletへ送金して、本システムの画面から送金した金額を入力する</li></ol></li>
+                <li>BTC送金のBTCの扱いは、<ol>
+                        <li>(前提) 注文ごとに受付るビットコインアドレスを発行している</li>
+                        <li>BlockExplorerで送金を確認したら本システムの画面から金額を入力する</li></ol></li>
+                <li>コミッションの扱い<ol>
+                        <li>本システムの画面から各代理店へ送金するコミッション金額を確認する</li>
+                        <li>会社Walletから各代理店へコミッションの金額を送金する</li>
+                        <li>本システムの画面から送金したコミッションの状態欄に完了を入力する</li></ol></li>
+                <li>トークンの扱い<ul>
+                        <li></li></ul></li>
+            </ol>
+        </div>
+    </body>
+</html>

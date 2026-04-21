@@ -1,0 +1,5 @@
+ALTER TABLE t_email_queue_redeem ADD type VARCHAR(2) AFTER id;
+
+INSERT IGNORE INTO `t_options` (`foreign_id`, `key`, `tab_id`, `value`, `label`, `type`, `description`, `order`, `is_visible`, `style`) VALUES
+(1, 'mail_issue_redeem_token_ARRAY_message', 3, 'ISSUE REDEEM TOKEN {client_family_name} {client_first_name}様\r\n\r\n\r\nお世話になっております。\r\nワンエイトアソシエーションで御座います。\r\n\r\n\r\nQNTの交換が完了しましたので受領書をお送り致します。\r\n\r\n*******************\r\nこの領収書はQuanta公開時にQNTを自分のウォレットに入金する\r\n際にも必要となりますので大切に保管して下さい。\r\n*******************\r\n\r\n===================\r\n受領書\r\n-------------------\r\nTicket ID: {order_number}\r\n\r\n\r\nUser hash: {user_hash}\r\nMd5(Order): {md5_order_number}\r\n\r\n\r\n交換完了日時: {create_at}\r\n\r\n\r\n受け取ったBitcoinの総額: {btc_amount} BTC\r\n\r\n適用されたUSD/BTCレート: {btc_usd_rate} USD/BTC\r\n\r\n適用されたUSD/QNTレート: {qnt_usd_rate} USD/QNT\r\n\r\n交換されたQNTの総額: {token_quantity} QNT\r\n\r\n\r\nQNT還元用コード: {token_code}\r\n\r\n===================\r\n\r\n{mail_signature}\r\n', NULL, 'text', 'issue redeem token message', 28, 1, NULL),
+(1, 'mail_issue_redeem_token_ARRAY_subject', 3, '[Quanta] ISSUE REDEEM TOKEN', NULL, 'string', 'Issue redeem token subject', 27, 1, NULL);

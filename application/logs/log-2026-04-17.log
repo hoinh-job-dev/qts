@@ -1,0 +1,42 @@
+DEBUG - 2026-04-17 14:50:57 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 15:59:26 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 16:48:35 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 16:52:59 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 16:54:17 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:04:46 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:04:51 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:05:12 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:05:17 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:05:18 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:08:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:16:39 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:16:40 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:17:30 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:22:01 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:23:08 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:23:10 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:23:10 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:32:38 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:44:09 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 17:44:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-17 17:44:09 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-17 17:44:09 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-17 17:44:09 --> DB
+DEBUG - 2026-04-17 17:44:09 --> class_exists
+DEBUG - 2026-04-17 17:44:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-17 19:44:10 --> DB
+DEBUG - 2026-04-17 19:44:10 --> class_exists
+DEBUG - 2026-04-17 19:44:10 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-17 19:44:10 --> DB
+DEBUG - 2026-04-17 19:44:10 --> class_exists
+DEBUG - 2026-04-17 19:44:10 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-17 19:44:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-17 19:44:10 --> Operator/login
+DEBUG - 2026-04-17 19:44:10 --> Total execution time: 1.4502
+DEBUG - 2026-04-17 18:08:54 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:10:11 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:10:12 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:10:12 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:10:13 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:10:25 --> UTF-8 Support Enabled
+DEBUG - 2026-04-17 18:15:28 --> UTF-8 Support Enabled

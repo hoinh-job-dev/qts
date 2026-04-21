@@ -1,0 +1,156 @@
+ul {
+    list-style: none;
+    margin: 20px 0;
+}
+
+h2 {
+    padding: 0 0 2px 4px;
+    background: linear-gradient(#ffffff, #ffcc33);
+}
+
+/*****************************************
+ * progress
+ *****************************************/
+div#progress ul {
+    text-align: center;
+}
+
+div#progress li {
+    display: inline-block;
+    width: 32%;
+    padding: 10px 0;
+    line-height: 1.2em;
+    border-radius: 10px;
+}
+
+div#progress li#step1_nav {
+    font-weight: bold;
+    background-color: #ffcc33;
+}
+div#progress li#step2_nav,
+div#progress li#step3_nav {
+    font-weight: normal;
+}
+
+/*****************************************
+ * step
+ *****************************************/
+div#step1 {
+    display: block;
+}
+div#step2,
+div#step3 {
+    display: none;
+}
+
+/* 項目レイアウト */
+table {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+td {
+    padding: 5px;
+    vertical-align: top;
+}
+
+/* 項目名, 項目値 */
+td.iname {
+    width: 130px;
+}
+td.item {
+    width: 290px;
+}
+
+/* 同意 */
+td.line {
+    width: 430px;
+}
+
+/* 確認書類アップロード */
+td.upload {
+    width: 240px;
+}
+/*   説明 */
+td.upload ul {
+    margin: 5px 0;
+    color: #1a1aff;
+    margin-bottom: 30px;
+}
+td.upload li {
+    list-style: circle;
+    margin: 5px 0 0 15px;
+    padding: 0;
+    font-size: 75%;
+}
+
+/*   ファイル選択 */
+td.upload input {
+    width: 240px;
+    margin-bottom : 10px;
+}
+
+td.upload img.preview_photo {
+    display: none;
+    width: 240px;
+    background-color: #eee;
+}
+
+/*   サンプル画像 */
+td.sample {
+    width: 190px;
+}
+td.sample img {
+    width: 180px;
+}
+
+
+/*****************************************
+ * form
+ *****************************************/
+form {
+    /*background-color: #eee;*/
+}
+
+input[type='text'] {
+    width: 280px;
+}
+input[type='text']#year {
+    width: 50px;
+}
+input[type='text']#family_name,
+input[type='text']#first_name,
+input[type='text']#tel,
+input[type='text']#country {
+    width: 100px;
+}
+input[type='text']#zip_code,
+input[type='text']#prefecture {
+    width: 70px;
+}
+table.agreement {
+    line-height: 1.4em;
+}
+
+/*****************************************
+ * button
+ *****************************************/
+ul#button li {
+    display: inline-block;
+    width: 49%;
+}
+
+ul#button div {
+    width: 100px;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+ul#button div#back {
+    background-color: #d9d9d9;
+}
+ul#button div#next {
+    background-color: #ff9933;
+}

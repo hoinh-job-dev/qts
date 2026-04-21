@@ -1,0 +1,23 @@
+.view-user-account {}
+
+.view-user-account table {
+	width: 100%;
+}
+
+.view-user-account table th {
+    width: 30%;
+}
+
+.view-user-account table th,
+.view-user-account table td {
+    padding: 5px 0;
+}
+
+.view-user-account .error {
+	color: #ff0000;
+}
+
+.view-user-account .info {
+	color: green;
+	font-size: medium;
+}

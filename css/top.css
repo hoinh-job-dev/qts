@@ -1,0 +1,240 @@
+/* =================================
+   TopPage
+==================================== */
+/*==============================
+TOP contents
+==============================*/
+.l-login .login-main {
+  display: table;
+  margin: 0 auto;
+  /*width: 100%;*/
+  max-width: 36rem;
+}
+.l-login .mainbox {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.l-login .login-client { 
+  max-width: 50rem;
+}
+.l-login .whitebox {
+  padding: 6rem 4.5rem 4rem;
+  min-height: 46rem;
+}
+.l-login h1 {
+  margin: 0 0 5rem;
+}
+.l-login p {
+  margin: 0 0 2.5rem;
+  text-align: left;
+}
+.l-login label {
+  display: block;
+  margin: 0 0 .5rem;
+}
+.l-login input[type=submit] {
+  margin: 1.5rem 0 0;
+}
+
+/*order
+_______________________________*/
+.l-order {
+  padding: 40px 0 0 0;
+}
+.l-order h1 {
+  margin: 0 0 38px;
+  font-size: 20px;
+  font-weight: bold;
+  text-indent: 35px;
+  background: url(../img/page/order/form_img_01.png) no-repeat left 9px;
+}
+.l-order h2 {
+  margin: 0 0 25px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+.l-order .order-main {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+}
+.l-order .order-flow {
+  background: #333333;
+  display: table;
+  width: 100%;
+}
+.l-order .order-flow li {
+  display: table-cell;
+  padding: 10px 0 8px 0;
+  text-align: center;
+  color: #fff;
+  background: #333;
+  background-size: cover;
+}
+.l-order .order-flow li span {
+  display: block;
+  font-weight: bold;
+}
+.l-order .order-flow li.active {
+  background: #18bc9c;
+}
+.l-order .order-flow li:nth-child(2).active {
+  background: #333 url(../img/page/order/order_bg_03.png) no-repeat right center;
+  background-size: 100% 100%;
+}
+.l-order .order-flow li:nth-child(2) {
+  background: #18bc9c url(../img/page/order/order_bg_04.png) no-repeat right center;
+  background-size: 100% 100%;
+}
+.l-order .order-flow.order1 li:nth-child(2) {
+  background-image: url(../img/page/order/order_bg_05.png);
+}
+.l-order .order-flow.order3 li:nth-child(2) {
+  background-image: url(../img/page/order/order_bg_06.png);
+}
+.l-order form {
+  margin: 0 0 40px;
+  padding: 40px 40px;
+}
+.l-order form p {
+  margin: 0 0 22px;
+}
+.l-order form .txt-blue {
+  display: block;
+  margin: 0 0 10px 0;
+  color: #337ab7;
+}
+.l-order form .txt-blue a {
+  color: #337ab7;
+}
+.l-order form li span {
+  margin: 0 10px 0 6px;
+}
+.l-order form .note {
+  display: block;
+}
+.l-order .select-box {
+  margin-bottom: 20px;
+}
+.l-order label {
+  display: block;
+}
+.l-order input[type="submit"] {
+  display: table;
+  margin: 0 auto;
+}
+.l-order input[type="submit"].back {
+  background: #cbcbcb;
+}
+.l-order input[type="checkbox"] {
+  position: relative;
+  /*top: 3px;*/
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+}
+.l-order select {
+  width: 100px;
+  height: 42px;
+  border: 1px solid #e3e3e3;
+  background: #fbfbfb;
+}
+.l-order .w-short {
+  width: 278px;
+}
+.l-order .w-medule {
+  margin: 0 10px 0 0;
+  width: 358px;
+}
+.l-order .order-btnlist {
+  margin: 50px auto 0;
+}
+.l-order .order-btnlist li input[type="submit"] {
+  width: 20rem;
+}
+.l-order .order-btnlist li + li {
+  margin: 0 0 0 20px;
+}
+.l-order .file-upload {
+  position: relative;
+  overflow: hidden;
+  width: 60px;
+  height: 23px;
+  background: url(../img/page/order/order_file_btn_bg.png) no-repeat;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.l-order .file-upload input.upload {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.l-order #fileuploadurl,
+.l-order #fileuploadurl2,
+.l-order #fileuploadurl3,
+.l-order #fileuploadurl4 {
+  display: inline-block;
+  border: none;
+  vertical-align: middle;
+  padding-left: 0;
+  width: 292px;
+  padding-right: 0;
+  outline-style: none;
+}
+.l-order .order-checkit {
+  display: block;
+  padding: 5px 0 5px;
+  font-weight: bold;
+  text-indent: 32px;
+  color: #18bc9c;
+  background: url(../img/page/order/order_03_checkit.png) no-repeat;
+}
+.l-order .order-pht {
+  margin: 10px auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+  /* 641px以下の場合 */
+
+  .l-order {
+    padding: 2rem 0 0;
+  }
+  .l-order h1 {
+    margin-bottom: 2rem;
+  }
+  .l-order form {
+    padding: 2rem;
+  }
+  .l-order .w-short,
+  .l-order .w-medule {
+    width: 100%;
+  }
+  .l-order select {
+    width: 100%;
+  }
+  .l-order .select-box li {
+    float: none;
+    text-align: right;
+  }
+  .l-order .right {
+    display: block;
+    text-align: right;
+  }
+  .l-order .order-btnlist li,
+  .l-order .order-btnlist li + li {
+    float: none;
+    text-align: center;
+    margin: 0 0  10px;
+  }  
+}

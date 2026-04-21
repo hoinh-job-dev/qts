@@ -1,0 +1,1679 @@
+DEBUG - 2026-04-18 17:49:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:49:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:49:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:49:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:49:52 --> DB
+DEBUG - 2026-04-18 17:49:52 --> class_exists
+DEBUG - 2026-04-18 17:49:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:53 --> DB
+DEBUG - 2026-04-18 19:49:53 --> class_exists
+DEBUG - 2026-04-18 19:49:53 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:53 --> DB
+DEBUG - 2026-04-18 19:49:53 --> class_exists
+DEBUG - 2026-04-18 19:49:53 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:49:53 --> Operator/login
+DEBUG - 2026-04-18 19:49:53 --> Total execution time: 0.3475
+DEBUG - 2026-04-18 17:49:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:49:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:49:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:49:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:49:56 --> DB
+DEBUG - 2026-04-18 17:49:56 --> class_exists
+DEBUG - 2026-04-18 17:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> DB
+DEBUG - 2026-04-18 19:49:56 --> class_exists
+DEBUG - 2026-04-18 19:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> DB
+DEBUG - 2026-04-18 19:49:56 --> class_exists
+DEBUG - 2026-04-18 19:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:49:56 --> Operator/home
+DEBUG - 2026-04-18 17:49:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:49:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:49:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:49:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:49:56 --> DB
+DEBUG - 2026-04-18 17:49:56 --> class_exists
+DEBUG - 2026-04-18 17:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> DB
+DEBUG - 2026-04-18 19:49:56 --> class_exists
+DEBUG - 2026-04-18 19:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> DB
+DEBUG - 2026-04-18 19:49:56 --> class_exists
+DEBUG - 2026-04-18 19:49:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:49:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:49:56 --> Operator/login
+DEBUG - 2026-04-18 19:49:56 --> Total execution time: 0.0088
+DEBUG - 2026-04-18 17:50:00 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:00 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:00 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:00 --> DB
+DEBUG - 2026-04-18 17:50:00 --> class_exists
+DEBUG - 2026-04-18 17:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> DB
+DEBUG - 2026-04-18 19:50:00 --> class_exists
+DEBUG - 2026-04-18 19:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> DB
+DEBUG - 2026-04-18 19:50:00 --> class_exists
+DEBUG - 2026-04-18 19:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:00 --> Operator/home
+DEBUG - 2026-04-18 17:50:00 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:00 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:00 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:00 --> DB
+DEBUG - 2026-04-18 17:50:00 --> class_exists
+DEBUG - 2026-04-18 17:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> DB
+DEBUG - 2026-04-18 19:50:00 --> class_exists
+DEBUG - 2026-04-18 19:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> DB
+DEBUG - 2026-04-18 19:50:00 --> class_exists
+DEBUG - 2026-04-18 19:50:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:00 --> Operator/login
+DEBUG - 2026-04-18 19:50:00 --> Total execution time: 0.0110
+DEBUG - 2026-04-18 17:50:02 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:02 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:02 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:02 --> DB
+DEBUG - 2026-04-18 17:50:02 --> class_exists
+DEBUG - 2026-04-18 17:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> DB
+DEBUG - 2026-04-18 19:50:02 --> class_exists
+DEBUG - 2026-04-18 19:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> DB
+DEBUG - 2026-04-18 19:50:02 --> class_exists
+DEBUG - 2026-04-18 19:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:02 --> Operator/home
+DEBUG - 2026-04-18 17:50:02 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:02 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:02 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:02 --> DB
+DEBUG - 2026-04-18 17:50:02 --> class_exists
+DEBUG - 2026-04-18 17:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> DB
+DEBUG - 2026-04-18 19:50:02 --> class_exists
+DEBUG - 2026-04-18 19:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> DB
+DEBUG - 2026-04-18 19:50:02 --> class_exists
+DEBUG - 2026-04-18 19:50:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:02 --> Operator/login
+DEBUG - 2026-04-18 19:50:02 --> Total execution time: 0.0205
+DEBUG - 2026-04-18 17:50:14 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:14 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:14 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:14 --> DB
+DEBUG - 2026-04-18 17:50:14 --> class_exists
+DEBUG - 2026-04-18 17:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> DB
+DEBUG - 2026-04-18 19:50:14 --> class_exists
+DEBUG - 2026-04-18 19:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> DB
+DEBUG - 2026-04-18 19:50:14 --> class_exists
+DEBUG - 2026-04-18 19:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:14 --> Operator/home
+DEBUG - 2026-04-18 17:50:14 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:14 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:14 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:14 --> DB
+DEBUG - 2026-04-18 17:50:14 --> class_exists
+DEBUG - 2026-04-18 17:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> DB
+DEBUG - 2026-04-18 19:50:14 --> class_exists
+DEBUG - 2026-04-18 19:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> DB
+DEBUG - 2026-04-18 19:50:14 --> class_exists
+DEBUG - 2026-04-18 19:50:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:14 --> Operator/login
+DEBUG - 2026-04-18 19:50:14 --> Total execution time: 0.0137
+DEBUG - 2026-04-18 17:50:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:19 --> DB
+DEBUG - 2026-04-18 17:50:19 --> class_exists
+DEBUG - 2026-04-18 17:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> DB
+DEBUG - 2026-04-18 19:50:19 --> class_exists
+DEBUG - 2026-04-18 19:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> DB
+DEBUG - 2026-04-18 19:50:19 --> class_exists
+DEBUG - 2026-04-18 19:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:19 --> Operator/home
+DEBUG - 2026-04-18 17:50:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:50:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:50:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:50:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:50:19 --> DB
+DEBUG - 2026-04-18 17:50:19 --> class_exists
+DEBUG - 2026-04-18 17:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> DB
+DEBUG - 2026-04-18 19:50:19 --> class_exists
+DEBUG - 2026-04-18 19:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> DB
+DEBUG - 2026-04-18 19:50:19 --> class_exists
+DEBUG - 2026-04-18 19:50:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:50:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:50:19 --> Operator/login
+DEBUG - 2026-04-18 19:50:19 --> Total execution time: 0.0116
+DEBUG - 2026-04-18 17:51:22 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:51:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:51:22 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:51:22 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:51:22 --> DB
+DEBUG - 2026-04-18 17:51:22 --> class_exists
+DEBUG - 2026-04-18 17:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> DB
+DEBUG - 2026-04-18 19:51:22 --> class_exists
+DEBUG - 2026-04-18 19:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> DB
+DEBUG - 2026-04-18 19:51:22 --> class_exists
+DEBUG - 2026-04-18 19:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:51:22 --> Operator/home
+DEBUG - 2026-04-18 17:51:22 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:51:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:51:22 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:51:22 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:51:22 --> DB
+DEBUG - 2026-04-18 17:51:22 --> class_exists
+DEBUG - 2026-04-18 17:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> DB
+DEBUG - 2026-04-18 19:51:22 --> class_exists
+DEBUG - 2026-04-18 19:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> DB
+DEBUG - 2026-04-18 19:51:22 --> class_exists
+DEBUG - 2026-04-18 19:51:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:51:22 --> Operator/login
+DEBUG - 2026-04-18 19:51:22 --> Total execution time: 0.0121
+DEBUG - 2026-04-18 17:51:38 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:51:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:51:38 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:51:38 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:51:38 --> DB
+DEBUG - 2026-04-18 17:51:38 --> class_exists
+DEBUG - 2026-04-18 17:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> DB
+DEBUG - 2026-04-18 19:51:38 --> class_exists
+DEBUG - 2026-04-18 19:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> DB
+DEBUG - 2026-04-18 19:51:38 --> class_exists
+DEBUG - 2026-04-18 19:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:51:38 --> Operator/home
+DEBUG - 2026-04-18 17:51:38 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:51:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:51:38 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:51:38 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:51:38 --> DB
+DEBUG - 2026-04-18 17:51:38 --> class_exists
+DEBUG - 2026-04-18 17:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> DB
+DEBUG - 2026-04-18 19:51:38 --> class_exists
+DEBUG - 2026-04-18 19:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> DB
+DEBUG - 2026-04-18 19:51:38 --> class_exists
+DEBUG - 2026-04-18 19:51:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:51:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:51:38 --> Operator/login
+DEBUG - 2026-04-18 19:51:38 --> Total execution time: 0.0173
+DEBUG - 2026-04-18 17:54:58 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:54:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:54:58 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:54:58 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:54:58 --> DB
+DEBUG - 2026-04-18 17:54:58 --> class_exists
+DEBUG - 2026-04-18 17:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> DB
+DEBUG - 2026-04-18 19:54:58 --> class_exists
+DEBUG - 2026-04-18 19:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> DB
+DEBUG - 2026-04-18 19:54:58 --> class_exists
+DEBUG - 2026-04-18 19:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:54:58 --> Operator/home
+DEBUG - 2026-04-18 17:54:58 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 17:54:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 17:54:58 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 17:54:58 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 17:54:58 --> DB
+DEBUG - 2026-04-18 17:54:58 --> class_exists
+DEBUG - 2026-04-18 17:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> DB
+DEBUG - 2026-04-18 19:54:58 --> class_exists
+DEBUG - 2026-04-18 19:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> DB
+DEBUG - 2026-04-18 19:54:58 --> class_exists
+DEBUG - 2026-04-18 19:54:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:54:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 19:54:58 --> Operator/login
+DEBUG - 2026-04-18 19:54:58 --> Total execution time: 0.0206
+DEBUG - 2026-04-18 18:13:26 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:13:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:13:26 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:13:26 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:13:26 --> DB
+DEBUG - 2026-04-18 18:13:26 --> class_exists
+DEBUG - 2026-04-18 18:13:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:13:26 --> DB
+DEBUG - 2026-04-18 20:13:26 --> class_exists
+DEBUG - 2026-04-18 20:13:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:13:26 --> DB
+DEBUG - 2026-04-18 20:13:26 --> class_exists
+DEBUG - 2026-04-18 20:13:26 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:13:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:13:26 --> Operator/home
+DEBUG - 2026-04-18 18:15:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:15:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:15:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:15:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:15:56 --> DB
+DEBUG - 2026-04-18 18:15:56 --> class_exists
+DEBUG - 2026-04-18 18:15:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:56 --> DB
+DEBUG - 2026-04-18 20:15:56 --> class_exists
+DEBUG - 2026-04-18 20:15:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:56 --> DB
+DEBUG - 2026-04-18 20:15:56 --> class_exists
+DEBUG - 2026-04-18 20:15:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:15:56 --> Operator/home
+DEBUG - 2026-04-18 18:15:59 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:15:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:15:59 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:15:59 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:15:59 --> DB
+DEBUG - 2026-04-18 18:15:59 --> class_exists
+DEBUG - 2026-04-18 18:15:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:59 --> DB
+DEBUG - 2026-04-18 20:15:59 --> class_exists
+DEBUG - 2026-04-18 20:15:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:59 --> DB
+DEBUG - 2026-04-18 20:15:59 --> class_exists
+DEBUG - 2026-04-18 20:15:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:15:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:15:59 --> Operator/home
+DEBUG - 2026-04-18 18:16:59 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:16:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:00 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:00 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:00 --> DB
+DEBUG - 2026-04-18 18:17:00 --> class_exists
+DEBUG - 2026-04-18 18:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> DB
+DEBUG - 2026-04-18 20:17:00 --> class_exists
+DEBUG - 2026-04-18 20:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> DB
+DEBUG - 2026-04-18 20:17:00 --> class_exists
+DEBUG - 2026-04-18 20:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:00 --> Operator/home
+DEBUG - 2026-04-18 18:17:00 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:17:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:00 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:00 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:00 --> DB
+DEBUG - 2026-04-18 18:17:00 --> class_exists
+DEBUG - 2026-04-18 18:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> DB
+DEBUG - 2026-04-18 20:17:00 --> class_exists
+DEBUG - 2026-04-18 20:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> DB
+DEBUG - 2026-04-18 20:17:00 --> class_exists
+DEBUG - 2026-04-18 20:17:00 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:00 --> Operator/login
+DEBUG - 2026-04-18 20:17:00 --> Total execution time: 0.0123
+DEBUG - 2026-04-18 18:17:02 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:17:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:02 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:02 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:02 --> DB
+DEBUG - 2026-04-18 18:17:02 --> class_exists
+DEBUG - 2026-04-18 18:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> DB
+DEBUG - 2026-04-18 20:17:02 --> class_exists
+DEBUG - 2026-04-18 20:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> DB
+DEBUG - 2026-04-18 20:17:02 --> class_exists
+DEBUG - 2026-04-18 20:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:02 --> Operator/home
+DEBUG - 2026-04-18 18:17:02 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:17:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:02 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:02 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:02 --> DB
+DEBUG - 2026-04-18 18:17:02 --> class_exists
+DEBUG - 2026-04-18 18:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> DB
+DEBUG - 2026-04-18 20:17:02 --> class_exists
+DEBUG - 2026-04-18 20:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> DB
+DEBUG - 2026-04-18 20:17:02 --> class_exists
+DEBUG - 2026-04-18 20:17:02 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:02 --> Operator/login
+DEBUG - 2026-04-18 20:17:02 --> Total execution time: 0.0083
+DEBUG - 2026-04-18 18:17:05 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:17:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:05 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:05 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:05 --> DB
+DEBUG - 2026-04-18 18:17:05 --> class_exists
+DEBUG - 2026-04-18 18:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> DB
+DEBUG - 2026-04-18 20:17:05 --> class_exists
+DEBUG - 2026-04-18 20:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> DB
+DEBUG - 2026-04-18 20:17:05 --> class_exists
+DEBUG - 2026-04-18 20:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:05 --> Operator/home
+DEBUG - 2026-04-18 18:17:05 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:17:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:17:05 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:17:05 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:17:05 --> DB
+DEBUG - 2026-04-18 18:17:05 --> class_exists
+DEBUG - 2026-04-18 18:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> DB
+DEBUG - 2026-04-18 20:17:05 --> class_exists
+DEBUG - 2026-04-18 20:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> DB
+DEBUG - 2026-04-18 20:17:05 --> class_exists
+DEBUG - 2026-04-18 20:17:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:17:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:17:05 --> Operator/login
+DEBUG - 2026-04-18 20:17:05 --> Total execution time: 0.0105
+DEBUG - 2026-04-18 18:18:22 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:18:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:18:22 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:18:22 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:18:22 --> DB
+DEBUG - 2026-04-18 18:18:22 --> class_exists
+DEBUG - 2026-04-18 18:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> DB
+DEBUG - 2026-04-18 20:18:22 --> class_exists
+DEBUG - 2026-04-18 20:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> DB
+DEBUG - 2026-04-18 20:18:22 --> class_exists
+DEBUG - 2026-04-18 20:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:18:22 --> Operator/home
+DEBUG - 2026-04-18 18:18:22 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:18:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:18:22 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:18:22 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:18:22 --> DB
+DEBUG - 2026-04-18 18:18:22 --> class_exists
+DEBUG - 2026-04-18 18:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> DB
+DEBUG - 2026-04-18 20:18:22 --> class_exists
+DEBUG - 2026-04-18 20:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> DB
+DEBUG - 2026-04-18 20:18:22 --> class_exists
+DEBUG - 2026-04-18 20:18:22 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:18:22 --> Operator/login
+DEBUG - 2026-04-18 20:18:22 --> Total execution time: 0.0170
+DEBUG - 2026-04-18 18:18:23 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:18:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:18:23 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:18:23 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:18:23 --> DB
+DEBUG - 2026-04-18 18:18:23 --> class_exists
+DEBUG - 2026-04-18 18:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> DB
+DEBUG - 2026-04-18 20:18:23 --> class_exists
+DEBUG - 2026-04-18 20:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> DB
+DEBUG - 2026-04-18 20:18:23 --> class_exists
+DEBUG - 2026-04-18 20:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:18:23 --> Operator/home
+DEBUG - 2026-04-18 18:18:23 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:18:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:18:23 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:18:23 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:18:23 --> DB
+DEBUG - 2026-04-18 18:18:23 --> class_exists
+DEBUG - 2026-04-18 18:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> DB
+DEBUG - 2026-04-18 20:18:23 --> class_exists
+DEBUG - 2026-04-18 20:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> DB
+DEBUG - 2026-04-18 20:18:23 --> class_exists
+DEBUG - 2026-04-18 20:18:23 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:18:23 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:18:23 --> Operator/login
+DEBUG - 2026-04-18 20:18:23 --> Total execution time: 0.0130
+DEBUG - 2026-04-18 18:20:12 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:20:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:20:12 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:20:12 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:20:12 --> DB
+DEBUG - 2026-04-18 18:20:12 --> class_exists
+DEBUG - 2026-04-18 18:20:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:12 --> DB
+DEBUG - 2026-04-18 20:20:12 --> class_exists
+DEBUG - 2026-04-18 20:20:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:12 --> DB
+DEBUG - 2026-04-18 20:20:12 --> class_exists
+DEBUG - 2026-04-18 20:20:12 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:20:12 --> Operator/login
+DEBUG - 2026-04-18 20:20:12 --> Total execution time: 0.0513
+DEBUG - 2026-04-18 18:20:15 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:20:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:20:15 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:20:15 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:20:15 --> DB
+DEBUG - 2026-04-18 18:20:15 --> class_exists
+DEBUG - 2026-04-18 18:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> DB
+DEBUG - 2026-04-18 20:20:15 --> class_exists
+DEBUG - 2026-04-18 20:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> DB
+DEBUG - 2026-04-18 20:20:15 --> class_exists
+DEBUG - 2026-04-18 20:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:20:15 --> Operator/home
+DEBUG - 2026-04-18 18:20:15 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:20:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:20:15 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:20:15 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:20:15 --> DB
+DEBUG - 2026-04-18 18:20:15 --> class_exists
+DEBUG - 2026-04-18 18:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> DB
+DEBUG - 2026-04-18 20:20:15 --> class_exists
+DEBUG - 2026-04-18 20:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> DB
+DEBUG - 2026-04-18 20:20:15 --> class_exists
+DEBUG - 2026-04-18 20:20:15 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:20:15 --> Operator/login
+DEBUG - 2026-04-18 20:20:15 --> Total execution time: 0.0079
+DEBUG - 2026-04-18 18:20:49 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:20:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:20:49 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:20:49 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:20:49 --> DB
+DEBUG - 2026-04-18 18:20:49 --> class_exists
+DEBUG - 2026-04-18 18:20:49 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:49 --> DB
+DEBUG - 2026-04-18 20:20:49 --> class_exists
+DEBUG - 2026-04-18 20:20:49 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:49 --> DB
+DEBUG - 2026-04-18 20:20:49 --> class_exists
+DEBUG - 2026-04-18 20:20:49 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:49 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:20:49 --> Operator/login
+DEBUG - 2026-04-18 20:20:49 --> Total execution time: 0.0485
+DEBUG - 2026-04-18 18:20:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:20:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:20:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:20:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:20:52 --> DB
+DEBUG - 2026-04-18 18:20:52 --> class_exists
+DEBUG - 2026-04-18 18:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:52 --> DB
+DEBUG - 2026-04-18 20:20:52 --> class_exists
+DEBUG - 2026-04-18 20:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:52 --> DB
+DEBUG - 2026-04-18 20:20:52 --> class_exists
+DEBUG - 2026-04-18 20:20:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:20:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:20:52 --> Operator/home
+ERROR - 2026-04-18 20:20:52 --> Severity: Notice --> Array to string conversion /var/www/html/QT/application/controllers/Operator.php 98
+ERROR - 2026-04-18 20:20:52 --> Severity: Notice --> Undefined variable: Array /var/www/html/QT/application/controllers/Operator.php 98
+DEBUG - 2026-04-18 18:21:30 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:21:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:21:31 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:21:31 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:21:31 --> DB
+DEBUG - 2026-04-18 18:21:31 --> class_exists
+DEBUG - 2026-04-18 18:21:31 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:31 --> DB
+DEBUG - 2026-04-18 20:21:31 --> class_exists
+DEBUG - 2026-04-18 20:21:31 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:31 --> DB
+DEBUG - 2026-04-18 20:21:31 --> class_exists
+DEBUG - 2026-04-18 20:21:31 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:31 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:21:31 --> Operator/home
+ERROR - 2026-04-18 20:21:31 --> Severity: Notice --> Array to string conversion /var/www/html/QT/application/controllers/Operator.php 107
+ERROR - 2026-04-18 20:21:31 --> Severity: Notice --> Undefined variable: Array /var/www/html/QT/application/controllers/Operator.php 107
+DEBUG - 2026-04-18 18:21:37 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:21:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:21:37 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:21:37 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:21:37 --> DB
+DEBUG - 2026-04-18 18:21:37 --> class_exists
+DEBUG - 2026-04-18 18:21:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:37 --> DB
+DEBUG - 2026-04-18 20:21:37 --> class_exists
+DEBUG - 2026-04-18 20:21:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:37 --> DB
+DEBUG - 2026-04-18 20:21:37 --> class_exists
+DEBUG - 2026-04-18 20:21:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:21:37 --> Operator/login
+DEBUG - 2026-04-18 20:21:37 --> Total execution time: 0.0374
+DEBUG - 2026-04-18 18:21:40 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:21:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:21:40 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:21:40 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:21:40 --> DB
+DEBUG - 2026-04-18 18:21:40 --> class_exists
+DEBUG - 2026-04-18 18:21:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:40 --> DB
+DEBUG - 2026-04-18 20:21:40 --> class_exists
+DEBUG - 2026-04-18 20:21:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:40 --> DB
+DEBUG - 2026-04-18 20:21:40 --> class_exists
+DEBUG - 2026-04-18 20:21:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:21:40 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:21:40 --> Operator/home
+ERROR - 2026-04-18 20:21:40 --> Severity: Notice --> Array to string conversion /var/www/html/QT/application/controllers/Operator.php 107
+ERROR - 2026-04-18 20:21:40 --> Severity: Notice --> Undefined variable: Array /var/www/html/QT/application/controllers/Operator.php 107
+DEBUG - 2026-04-18 18:22:05 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:22:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:22:05 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:22:05 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:22:05 --> DB
+DEBUG - 2026-04-18 18:22:05 --> class_exists
+DEBUG - 2026-04-18 18:22:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:22:05 --> DB
+DEBUG - 2026-04-18 20:22:05 --> class_exists
+DEBUG - 2026-04-18 20:22:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:22:05 --> DB
+DEBUG - 2026-04-18 20:22:05 --> class_exists
+DEBUG - 2026-04-18 20:22:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:22:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:22:05 --> Operator/home
+DEBUG - 2026-04-18 18:23:36 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:23:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:23:36 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:23:36 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:23:36 --> DB
+DEBUG - 2026-04-18 18:23:36 --> class_exists
+DEBUG - 2026-04-18 18:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> DB
+DEBUG - 2026-04-18 20:23:36 --> class_exists
+DEBUG - 2026-04-18 20:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> DB
+DEBUG - 2026-04-18 20:23:36 --> class_exists
+DEBUG - 2026-04-18 20:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:23:36 --> Operator/home
+DEBUG - 2026-04-18 18:23:36 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:23:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:23:36 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:23:36 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:23:36 --> DB
+DEBUG - 2026-04-18 18:23:36 --> class_exists
+DEBUG - 2026-04-18 18:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> DB
+DEBUG - 2026-04-18 20:23:36 --> class_exists
+DEBUG - 2026-04-18 20:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> DB
+DEBUG - 2026-04-18 20:23:36 --> class_exists
+DEBUG - 2026-04-18 20:23:36 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:23:36 --> Operator/login
+DEBUG - 2026-04-18 20:23:36 --> Total execution time: 0.0158
+DEBUG - 2026-04-18 18:23:41 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:23:41 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:23:41 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:23:41 --> DB
+DEBUG - 2026-04-18 18:23:41 --> class_exists
+DEBUG - 2026-04-18 18:23:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:41 --> DB
+DEBUG - 2026-04-18 20:23:41 --> class_exists
+DEBUG - 2026-04-18 20:23:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:41 --> DB
+DEBUG - 2026-04-18 20:23:41 --> class_exists
+DEBUG - 2026-04-18 20:23:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:41 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:23:41 --> Operator/login
+DEBUG - 2026-04-18 20:23:41 --> Total execution time: 0.0240
+DEBUG - 2026-04-18 18:23:43 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:23:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:23:43 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:23:43 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:23:43 --> DB
+DEBUG - 2026-04-18 18:23:43 --> class_exists
+DEBUG - 2026-04-18 18:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> DB
+DEBUG - 2026-04-18 20:23:43 --> class_exists
+DEBUG - 2026-04-18 20:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> DB
+DEBUG - 2026-04-18 20:23:43 --> class_exists
+DEBUG - 2026-04-18 20:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:23:43 --> Operator/home
+DEBUG - 2026-04-18 18:23:43 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:23:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:23:43 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:23:43 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:23:43 --> DB
+DEBUG - 2026-04-18 18:23:43 --> class_exists
+DEBUG - 2026-04-18 18:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> DB
+DEBUG - 2026-04-18 20:23:43 --> class_exists
+DEBUG - 2026-04-18 20:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> DB
+DEBUG - 2026-04-18 20:23:43 --> class_exists
+DEBUG - 2026-04-18 20:23:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:23:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:23:43 --> Operator/login
+DEBUG - 2026-04-18 20:23:43 --> Total execution time: 0.0086
+DEBUG - 2026-04-18 18:24:50 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:24:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:25:16 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:25:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:25:17 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:25:17 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:25:17 --> DB
+DEBUG - 2026-04-18 18:25:17 --> class_exists
+DEBUG - 2026-04-18 18:25:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:17 --> DB
+DEBUG - 2026-04-18 20:25:17 --> class_exists
+DEBUG - 2026-04-18 20:25:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:17 --> DB
+DEBUG - 2026-04-18 20:25:17 --> class_exists
+DEBUG - 2026-04-18 20:25:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:25:17 --> Operator/login
+DEBUG - 2026-04-18 20:25:17 --> Total execution time: 0.0340
+DEBUG - 2026-04-18 18:25:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:25:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:25:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:25:19 --> DB
+DEBUG - 2026-04-18 18:25:19 --> class_exists
+DEBUG - 2026-04-18 18:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> DB
+DEBUG - 2026-04-18 20:25:19 --> class_exists
+DEBUG - 2026-04-18 20:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> DB
+DEBUG - 2026-04-18 20:25:19 --> class_exists
+DEBUG - 2026-04-18 20:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:25:19 --> Operator/home
+DEBUG - 2026-04-18 18:25:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:25:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:25:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:25:19 --> DB
+DEBUG - 2026-04-18 18:25:19 --> class_exists
+DEBUG - 2026-04-18 18:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> DB
+DEBUG - 2026-04-18 20:25:19 --> class_exists
+DEBUG - 2026-04-18 20:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> DB
+DEBUG - 2026-04-18 20:25:19 --> class_exists
+DEBUG - 2026-04-18 20:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:25:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:25:19 --> Operator/login
+DEBUG - 2026-04-18 20:25:19 --> Total execution time: 0.0107
+DEBUG - 2026-04-18 18:30:50 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:30:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:30:50 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:30:50 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:30:50 --> DB
+DEBUG - 2026-04-18 18:30:50 --> class_exists
+DEBUG - 2026-04-18 18:30:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:50 --> DB
+DEBUG - 2026-04-18 20:30:50 --> class_exists
+DEBUG - 2026-04-18 20:30:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:50 --> DB
+DEBUG - 2026-04-18 20:30:50 --> class_exists
+DEBUG - 2026-04-18 20:30:50 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:50 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:30:50 --> Operator/login
+DEBUG - 2026-04-18 20:30:50 --> Total execution time: 0.0141
+DEBUG - 2026-04-18 18:30:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:30:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:30:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:30:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:30:52 --> DB
+DEBUG - 2026-04-18 18:30:52 --> class_exists
+DEBUG - 2026-04-18 18:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> DB
+DEBUG - 2026-04-18 20:30:52 --> class_exists
+DEBUG - 2026-04-18 20:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> DB
+DEBUG - 2026-04-18 20:30:52 --> class_exists
+DEBUG - 2026-04-18 20:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:30:52 --> Operator/home
+DEBUG - 2026-04-18 18:30:52 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:30:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:30:52 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:30:52 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:30:52 --> DB
+DEBUG - 2026-04-18 18:30:52 --> class_exists
+DEBUG - 2026-04-18 18:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> DB
+DEBUG - 2026-04-18 20:30:52 --> class_exists
+DEBUG - 2026-04-18 20:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> DB
+DEBUG - 2026-04-18 20:30:52 --> class_exists
+DEBUG - 2026-04-18 20:30:52 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:30:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:30:52 --> Operator/login
+DEBUG - 2026-04-18 20:30:52 --> Total execution time: 0.0102
+DEBUG - 2026-04-18 18:32:37 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:32:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:32:37 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:32:37 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:32:37 --> DB
+DEBUG - 2026-04-18 18:32:37 --> class_exists
+DEBUG - 2026-04-18 18:32:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:32:37 --> DB
+DEBUG - 2026-04-18 20:32:37 --> class_exists
+DEBUG - 2026-04-18 20:32:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:32:37 --> DB
+DEBUG - 2026-04-18 20:32:37 --> class_exists
+DEBUG - 2026-04-18 20:32:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:32:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:32:37 --> Operator/home
+DEBUG - 2026-04-18 18:33:58 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:33:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:33:58 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:33:58 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:33:58 --> DB
+DEBUG - 2026-04-18 18:33:58 --> class_exists
+DEBUG - 2026-04-18 18:33:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:33:58 --> DB
+DEBUG - 2026-04-18 20:33:58 --> class_exists
+DEBUG - 2026-04-18 20:33:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:33:58 --> DB
+DEBUG - 2026-04-18 20:33:58 --> class_exists
+DEBUG - 2026-04-18 20:33:58 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:33:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:33:58 --> Operator/home
+DEBUG - 2026-04-18 18:34:57 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:34:57 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:34:57 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:34:57 --> DB
+DEBUG - 2026-04-18 18:34:57 --> class_exists
+DEBUG - 2026-04-18 18:34:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:57 --> DB
+DEBUG - 2026-04-18 20:34:57 --> class_exists
+DEBUG - 2026-04-18 20:34:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:57 --> DB
+DEBUG - 2026-04-18 20:34:57 --> class_exists
+DEBUG - 2026-04-18 20:34:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:34:57 --> Operator/login
+DEBUG - 2026-04-18 20:34:57 --> Total execution time: 0.0242
+DEBUG - 2026-04-18 18:34:59 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:34:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:34:59 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:34:59 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:34:59 --> DB
+DEBUG - 2026-04-18 18:34:59 --> class_exists
+DEBUG - 2026-04-18 18:34:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:59 --> DB
+DEBUG - 2026-04-18 20:34:59 --> class_exists
+DEBUG - 2026-04-18 20:34:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:59 --> DB
+DEBUG - 2026-04-18 20:34:59 --> class_exists
+DEBUG - 2026-04-18 20:34:59 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:34:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:34:59 --> Operator/home
+DEBUG - 2026-04-18 18:35:29 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:35:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:35:29 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:35:29 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:35:29 --> DB
+DEBUG - 2026-04-18 18:35:29 --> class_exists
+DEBUG - 2026-04-18 18:35:29 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:29 --> DB
+DEBUG - 2026-04-18 20:35:29 --> class_exists
+DEBUG - 2026-04-18 20:35:29 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:29 --> DB
+DEBUG - 2026-04-18 20:35:29 --> class_exists
+DEBUG - 2026-04-18 20:35:29 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:29 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:35:29 --> Operator/home
+DEBUG - 2026-04-18 18:35:32 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:35:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:35:32 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:35:32 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:35:32 --> DB
+DEBUG - 2026-04-18 18:35:32 --> class_exists
+DEBUG - 2026-04-18 18:35:32 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:32 --> DB
+DEBUG - 2026-04-18 20:35:32 --> class_exists
+DEBUG - 2026-04-18 20:35:32 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:32 --> DB
+DEBUG - 2026-04-18 20:35:32 --> class_exists
+DEBUG - 2026-04-18 20:35:32 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:32 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:35:32 --> Operator/home
+DEBUG - 2026-04-18 18:35:41 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:35:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:35:41 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:35:41 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:35:41 --> DB
+DEBUG - 2026-04-18 18:35:41 --> class_exists
+DEBUG - 2026-04-18 18:35:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:41 --> DB
+DEBUG - 2026-04-18 20:35:41 --> class_exists
+DEBUG - 2026-04-18 20:35:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:41 --> DB
+DEBUG - 2026-04-18 20:35:41 --> class_exists
+DEBUG - 2026-04-18 20:35:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:41 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:35:41 --> Operator/login
+DEBUG - 2026-04-18 20:35:41 --> Total execution time: 0.0273
+DEBUG - 2026-04-18 18:35:42 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:35:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:35:42 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:35:42 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:35:42 --> DB
+DEBUG - 2026-04-18 18:35:42 --> class_exists
+DEBUG - 2026-04-18 18:35:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:42 --> DB
+DEBUG - 2026-04-18 20:35:42 --> class_exists
+DEBUG - 2026-04-18 20:35:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:42 --> DB
+DEBUG - 2026-04-18 20:35:42 --> class_exists
+DEBUG - 2026-04-18 20:35:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:35:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:35:42 --> Operator/home
+DEBUG - 2026-04-18 18:37:35 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:35 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:35 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:35 --> DB
+DEBUG - 2026-04-18 18:37:35 --> class_exists
+DEBUG - 2026-04-18 18:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> DB
+DEBUG - 2026-04-18 20:37:35 --> class_exists
+DEBUG - 2026-04-18 20:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> DB
+DEBUG - 2026-04-18 20:37:35 --> class_exists
+DEBUG - 2026-04-18 20:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:35 --> Operator/home
+DEBUG - 2026-04-18 18:37:35 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:35 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:35 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:35 --> DB
+DEBUG - 2026-04-18 18:37:35 --> class_exists
+DEBUG - 2026-04-18 18:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> DB
+DEBUG - 2026-04-18 20:37:35 --> class_exists
+DEBUG - 2026-04-18 20:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> DB
+DEBUG - 2026-04-18 20:37:35 --> class_exists
+DEBUG - 2026-04-18 20:37:35 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:35 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:35 --> Operator/login
+DEBUG - 2026-04-18 20:37:35 --> Total execution time: 0.0096
+DEBUG - 2026-04-18 18:37:37 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:37 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:37 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:37 --> DB
+DEBUG - 2026-04-18 18:37:37 --> class_exists
+DEBUG - 2026-04-18 18:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> DB
+DEBUG - 2026-04-18 20:37:37 --> class_exists
+DEBUG - 2026-04-18 20:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> DB
+DEBUG - 2026-04-18 20:37:37 --> class_exists
+DEBUG - 2026-04-18 20:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:37 --> Operator/home
+DEBUG - 2026-04-18 18:37:37 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:37 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:37 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:37 --> DB
+DEBUG - 2026-04-18 18:37:37 --> class_exists
+DEBUG - 2026-04-18 18:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> DB
+DEBUG - 2026-04-18 20:37:37 --> class_exists
+DEBUG - 2026-04-18 20:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> DB
+DEBUG - 2026-04-18 20:37:37 --> class_exists
+DEBUG - 2026-04-18 20:37:37 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:37 --> Operator/login
+DEBUG - 2026-04-18 20:37:37 --> Total execution time: 0.0135
+DEBUG - 2026-04-18 18:37:38 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:38 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:38 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:38 --> DB
+DEBUG - 2026-04-18 18:37:38 --> class_exists
+DEBUG - 2026-04-18 18:37:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:38 --> DB
+DEBUG - 2026-04-18 20:37:38 --> class_exists
+DEBUG - 2026-04-18 20:37:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:38 --> DB
+DEBUG - 2026-04-18 20:37:38 --> class_exists
+DEBUG - 2026-04-18 20:37:38 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:38 --> Operator/home
+DEBUG - 2026-04-18 18:37:39 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:39 --> DB
+DEBUG - 2026-04-18 18:37:39 --> class_exists
+DEBUG - 2026-04-18 18:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:39 --> Operator/login
+DEBUG - 2026-04-18 20:37:39 --> Total execution time: 0.0107
+DEBUG - 2026-04-18 18:37:39 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:39 --> DB
+DEBUG - 2026-04-18 18:37:39 --> class_exists
+DEBUG - 2026-04-18 18:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:39 --> Operator/home
+DEBUG - 2026-04-18 18:37:39 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:39 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:39 --> DB
+DEBUG - 2026-04-18 18:37:39 --> class_exists
+DEBUG - 2026-04-18 18:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> DB
+DEBUG - 2026-04-18 20:37:39 --> class_exists
+DEBUG - 2026-04-18 20:37:39 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:39 --> Operator/login
+DEBUG - 2026-04-18 20:37:39 --> Total execution time: 0.0176
+DEBUG - 2026-04-18 18:37:40 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:40 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:40 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:40 --> DB
+DEBUG - 2026-04-18 18:37:40 --> class_exists
+DEBUG - 2026-04-18 18:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> DB
+DEBUG - 2026-04-18 20:37:40 --> class_exists
+DEBUG - 2026-04-18 20:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> DB
+DEBUG - 2026-04-18 20:37:40 --> class_exists
+DEBUG - 2026-04-18 20:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:40 --> Operator/home
+DEBUG - 2026-04-18 18:37:40 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:37:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:37:40 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:37:40 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:37:40 --> DB
+DEBUG - 2026-04-18 18:37:40 --> class_exists
+DEBUG - 2026-04-18 18:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> DB
+DEBUG - 2026-04-18 20:37:40 --> class_exists
+DEBUG - 2026-04-18 20:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> DB
+DEBUG - 2026-04-18 20:37:40 --> class_exists
+DEBUG - 2026-04-18 20:37:40 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:37:40 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:37:40 --> Operator/login
+DEBUG - 2026-04-18 20:37:40 --> Total execution time: 0.0241
+DEBUG - 2026-04-18 18:38:41 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:38:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:38:41 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:38:41 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:38:41 --> DB
+DEBUG - 2026-04-18 18:38:41 --> class_exists
+DEBUG - 2026-04-18 18:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> DB
+DEBUG - 2026-04-18 20:38:41 --> class_exists
+DEBUG - 2026-04-18 20:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> DB
+DEBUG - 2026-04-18 20:38:41 --> class_exists
+DEBUG - 2026-04-18 20:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:38:41 --> Operator/home
+DEBUG - 2026-04-18 18:38:41 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:38:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:38:41 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:38:41 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:38:41 --> DB
+DEBUG - 2026-04-18 18:38:41 --> class_exists
+DEBUG - 2026-04-18 18:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> DB
+DEBUG - 2026-04-18 20:38:41 --> class_exists
+DEBUG - 2026-04-18 20:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> DB
+DEBUG - 2026-04-18 20:38:41 --> class_exists
+DEBUG - 2026-04-18 20:38:41 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:41 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:38:41 --> Operator/login
+DEBUG - 2026-04-18 20:38:41 --> Total execution time: 0.0131
+DEBUG - 2026-04-18 18:38:42 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:38:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:38:42 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:38:42 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:38:42 --> DB
+DEBUG - 2026-04-18 18:38:42 --> class_exists
+DEBUG - 2026-04-18 18:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> DB
+DEBUG - 2026-04-18 20:38:42 --> class_exists
+DEBUG - 2026-04-18 20:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> DB
+DEBUG - 2026-04-18 20:38:42 --> class_exists
+DEBUG - 2026-04-18 20:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:38:42 --> Operator/home
+DEBUG - 2026-04-18 18:38:42 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:38:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:38:42 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:38:42 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:38:42 --> DB
+DEBUG - 2026-04-18 18:38:42 --> class_exists
+DEBUG - 2026-04-18 18:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> DB
+DEBUG - 2026-04-18 20:38:42 --> class_exists
+DEBUG - 2026-04-18 20:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> DB
+DEBUG - 2026-04-18 20:38:42 --> class_exists
+DEBUG - 2026-04-18 20:38:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:38:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:38:42 --> Operator/login
+DEBUG - 2026-04-18 20:38:42 --> Total execution time: 0.0145
+DEBUG - 2026-04-18 18:39:08 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:39:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:39:08 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:39:08 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:39:08 --> DB
+DEBUG - 2026-04-18 18:39:08 --> class_exists
+DEBUG - 2026-04-18 18:39:08 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:39:08 --> DB
+DEBUG - 2026-04-18 20:39:08 --> class_exists
+DEBUG - 2026-04-18 20:39:08 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:39:08 --> DB
+DEBUG - 2026-04-18 20:39:08 --> class_exists
+DEBUG - 2026-04-18 20:39:08 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:39:08 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:39:08 --> Operator/home
+DEBUG - 2026-04-18 18:42:46 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:42:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:42:46 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:42:46 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:42:46 --> DB
+DEBUG - 2026-04-18 18:42:46 --> class_exists
+DEBUG - 2026-04-18 18:42:46 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:46 --> DB
+DEBUG - 2026-04-18 20:42:46 --> class_exists
+DEBUG - 2026-04-18 20:42:46 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:46 --> DB
+DEBUG - 2026-04-18 20:42:46 --> class_exists
+DEBUG - 2026-04-18 20:42:46 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:42:46 --> Operator/home
+DEBUG - 2026-04-18 18:42:54 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:42:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:42:54 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:42:54 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:42:54 --> DB
+DEBUG - 2026-04-18 18:42:54 --> class_exists
+DEBUG - 2026-04-18 18:42:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:54 --> DB
+DEBUG - 2026-04-18 20:42:54 --> class_exists
+DEBUG - 2026-04-18 20:42:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:54 --> DB
+DEBUG - 2026-04-18 20:42:54 --> class_exists
+DEBUG - 2026-04-18 20:42:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:42:54 --> Operator/login
+DEBUG - 2026-04-18 20:42:54 --> Total execution time: 0.0207
+DEBUG - 2026-04-18 18:42:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:42:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:42:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:42:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:42:56 --> DB
+DEBUG - 2026-04-18 18:42:56 --> class_exists
+DEBUG - 2026-04-18 18:42:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:56 --> DB
+DEBUG - 2026-04-18 20:42:56 --> class_exists
+DEBUG - 2026-04-18 20:42:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:56 --> DB
+DEBUG - 2026-04-18 20:42:56 --> class_exists
+DEBUG - 2026-04-18 20:42:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:42:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:42:56 --> Operator/home
+DEBUG - 2026-04-18 18:44:17 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:44:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:44:17 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:44:17 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:44:17 --> DB
+DEBUG - 2026-04-18 18:44:17 --> class_exists
+DEBUG - 2026-04-18 18:44:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:44:17 --> DB
+DEBUG - 2026-04-18 20:44:17 --> class_exists
+DEBUG - 2026-04-18 20:44:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:44:17 --> DB
+DEBUG - 2026-04-18 20:44:17 --> class_exists
+DEBUG - 2026-04-18 20:44:17 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:44:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:44:17 --> Operator/home
+DEBUG - 2026-04-18 18:45:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:45:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:45:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:45:19 --> DB
+DEBUG - 2026-04-18 18:45:19 --> class_exists
+DEBUG - 2026-04-18 18:45:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:45:19 --> DB
+DEBUG - 2026-04-18 20:45:19 --> class_exists
+DEBUG - 2026-04-18 20:45:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:45:19 --> DB
+DEBUG - 2026-04-18 20:45:19 --> class_exists
+DEBUG - 2026-04-18 20:45:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:45:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:45:19 --> Operator/home
+ERROR - 2026-04-18 20:45:19 --> Severity: Notice --> Trying to get property of non-object /var/www/html/QT/application/models/User_model.php 54
+DEBUG - 2026-04-18 18:47:05 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 18:47:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 18:47:05 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 18:47:05 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 18:47:05 --> DB
+DEBUG - 2026-04-18 18:47:05 --> class_exists
+DEBUG - 2026-04-18 18:47:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:47:05 --> DB
+DEBUG - 2026-04-18 20:47:05 --> class_exists
+DEBUG - 2026-04-18 20:47:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:47:05 --> DB
+DEBUG - 2026-04-18 20:47:05 --> class_exists
+DEBUG - 2026-04-18 20:47:05 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 20:47:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 20:47:05 --> Operator/home
+DEBUG - 2026-04-18 19:01:43 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:01:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:01:43 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:01:43 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:01:43 --> DB
+DEBUG - 2026-04-18 19:01:43 --> class_exists
+DEBUG - 2026-04-18 19:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> DB
+DEBUG - 2026-04-18 21:01:43 --> class_exists
+DEBUG - 2026-04-18 21:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> DB
+DEBUG - 2026-04-18 21:01:43 --> class_exists
+DEBUG - 2026-04-18 21:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:01:43 --> Operator/home
+DEBUG - 2026-04-18 19:01:43 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:01:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:01:43 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:01:43 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:01:43 --> DB
+DEBUG - 2026-04-18 19:01:43 --> class_exists
+DEBUG - 2026-04-18 19:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> DB
+DEBUG - 2026-04-18 21:01:43 --> class_exists
+DEBUG - 2026-04-18 21:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> DB
+DEBUG - 2026-04-18 21:01:43 --> class_exists
+DEBUG - 2026-04-18 21:01:43 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:01:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:01:43 --> Operator/login
+DEBUG - 2026-04-18 21:01:43 --> Total execution time: 0.0085
+DEBUG - 2026-04-18 19:02:04 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:02:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:02:04 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:02:04 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:02:04 --> DB
+DEBUG - 2026-04-18 19:02:04 --> class_exists
+DEBUG - 2026-04-18 19:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> DB
+DEBUG - 2026-04-18 21:02:04 --> class_exists
+DEBUG - 2026-04-18 21:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> DB
+DEBUG - 2026-04-18 21:02:04 --> class_exists
+DEBUG - 2026-04-18 21:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:02:04 --> Operator/home
+DEBUG - 2026-04-18 19:02:04 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:02:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:02:04 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:02:04 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:02:04 --> DB
+DEBUG - 2026-04-18 19:02:04 --> class_exists
+DEBUG - 2026-04-18 19:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> DB
+DEBUG - 2026-04-18 21:02:04 --> class_exists
+DEBUG - 2026-04-18 21:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> DB
+DEBUG - 2026-04-18 21:02:04 --> class_exists
+DEBUG - 2026-04-18 21:02:04 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:02:04 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:02:04 --> Operator/login
+DEBUG - 2026-04-18 21:02:04 --> Total execution time: 0.0093
+DEBUG - 2026-04-18 19:03:20 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:03:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:03:20 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:03:20 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:03:20 --> DB
+DEBUG - 2026-04-18 19:03:20 --> class_exists
+DEBUG - 2026-04-18 19:03:20 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:03:20 --> DB
+DEBUG - 2026-04-18 21:03:20 --> class_exists
+DEBUG - 2026-04-18 21:03:20 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:03:20 --> DB
+DEBUG - 2026-04-18 21:03:20 --> class_exists
+DEBUG - 2026-04-18 21:03:20 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:03:20 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:03:20 --> Operator/home
+DEBUG - 2026-04-18 19:04:18 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:04:18 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:04:18 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:04:18 --> DB
+DEBUG - 2026-04-18 19:04:18 --> class_exists
+DEBUG - 2026-04-18 19:04:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:04:18 --> DB
+DEBUG - 2026-04-18 21:04:18 --> class_exists
+DEBUG - 2026-04-18 21:04:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:04:18 --> DB
+DEBUG - 2026-04-18 21:04:18 --> class_exists
+DEBUG - 2026-04-18 21:04:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:04:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:04:18 --> Operator/home
+DEBUG - 2026-04-18 19:05:54 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:05:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:05:54 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:05:54 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:05:54 --> DB
+DEBUG - 2026-04-18 19:05:54 --> class_exists
+DEBUG - 2026-04-18 19:05:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:05:54 --> DB
+DEBUG - 2026-04-18 21:05:54 --> class_exists
+DEBUG - 2026-04-18 21:05:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:05:54 --> DB
+DEBUG - 2026-04-18 21:05:54 --> class_exists
+DEBUG - 2026-04-18 21:05:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:05:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:05:54 --> Operator/home
+ERROR - 2026-04-18 21:05:54 --> Severity: 4096 --> Object of class CI_DB_mysqli_driver could not be converted to string /var/www/html/QT/application/models/User_model.php 54
+DEBUG - 2026-04-18 19:07:14 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:07:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:07:14 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:07:14 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:07:14 --> DB
+DEBUG - 2026-04-18 19:07:14 --> class_exists
+DEBUG - 2026-04-18 19:07:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:07:14 --> DB
+DEBUG - 2026-04-18 21:07:14 --> class_exists
+DEBUG - 2026-04-18 21:07:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:07:14 --> DB
+DEBUG - 2026-04-18 21:07:14 --> class_exists
+DEBUG - 2026-04-18 21:07:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:07:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:07:14 --> Operator/home
+DEBUG - 2026-04-18 19:07:54 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:07:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:07:54 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:07:54 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:07:54 --> DB
+DEBUG - 2026-04-18 19:07:54 --> class_exists
+DEBUG - 2026-04-18 19:07:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:07:54 --> DB
+DEBUG - 2026-04-18 21:07:54 --> class_exists
+DEBUG - 2026-04-18 21:07:54 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:08:44 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:08:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:08:44 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:08:44 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:08:44 --> DB
+DEBUG - 2026-04-18 19:08:44 --> class_exists
+DEBUG - 2026-04-18 19:08:44 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:08:44 --> DB
+DEBUG - 2026-04-18 21:08:44 --> class_exists
+DEBUG - 2026-04-18 21:08:44 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:09:33 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:09:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:09:33 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:09:33 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:09:33 --> DB
+DEBUG - 2026-04-18 19:09:33 --> class_exists
+DEBUG - 2026-04-18 19:09:33 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:09:33 --> DB
+DEBUG - 2026-04-18 21:09:33 --> class_exists
+DEBUG - 2026-04-18 21:09:33 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 19:10:57 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:10:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:10:57 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:10:57 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:10:57 --> DB
+DEBUG - 2026-04-18 19:10:57 --> class_exists
+DEBUG - 2026-04-18 19:10:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:10:57 --> DB
+DEBUG - 2026-04-18 21:10:57 --> class_exists
+DEBUG - 2026-04-18 21:10:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:10:57 --> DB
+DEBUG - 2026-04-18 21:10:57 --> class_exists
+DEBUG - 2026-04-18 21:10:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:10:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:10:57 --> Operator/home
+ERROR - 2026-04-18 21:10:57 --> Severity: 4096 --> Object of class CI_DB_mysqli_result could not be converted to string /var/www/html/QT/application/models/User_model.php 55
+DEBUG - 2026-04-18 19:15:30 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:15:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:15:30 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:15:30 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:15:30 --> DB
+DEBUG - 2026-04-18 19:15:30 --> class_exists
+DEBUG - 2026-04-18 19:15:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:15:30 --> DB
+DEBUG - 2026-04-18 21:15:30 --> class_exists
+DEBUG - 2026-04-18 21:15:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:15:30 --> DB
+DEBUG - 2026-04-18 21:15:30 --> class_exists
+DEBUG - 2026-04-18 21:15:30 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:15:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:15:30 --> Operator/home
+DEBUG - 2026-04-18 19:16:55 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:16:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:16:55 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:16:55 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:16:55 --> DB
+DEBUG - 2026-04-18 19:16:55 --> class_exists
+DEBUG - 2026-04-18 19:16:55 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:55 --> DB
+DEBUG - 2026-04-18 21:16:55 --> class_exists
+DEBUG - 2026-04-18 21:16:55 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:55 --> DB
+DEBUG - 2026-04-18 21:16:55 --> class_exists
+DEBUG - 2026-04-18 21:16:55 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:55 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:16:55 --> Operator/login
+DEBUG - 2026-04-18 21:16:55 --> Total execution time: 0.0178
+DEBUG - 2026-04-18 19:16:57 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:16:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:16:57 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:16:57 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:16:57 --> DB
+DEBUG - 2026-04-18 19:16:57 --> class_exists
+DEBUG - 2026-04-18 19:16:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:57 --> DB
+DEBUG - 2026-04-18 21:16:57 --> class_exists
+DEBUG - 2026-04-18 21:16:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:57 --> DB
+DEBUG - 2026-04-18 21:16:57 --> class_exists
+DEBUG - 2026-04-18 21:16:57 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:16:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:16:57 --> Operator/home
+DEBUG - 2026-04-18 19:18:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:18:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:18:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:18:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:18:19 --> DB
+DEBUG - 2026-04-18 19:18:19 --> class_exists
+DEBUG - 2026-04-18 19:18:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:18:19 --> DB
+DEBUG - 2026-04-18 21:18:19 --> class_exists
+DEBUG - 2026-04-18 21:18:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:18:19 --> DB
+DEBUG - 2026-04-18 21:18:19 --> class_exists
+DEBUG - 2026-04-18 21:18:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:18:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:18:19 --> Operator/home
+DEBUG - 2026-04-18 19:20:14 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:14 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:14 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:14 --> DB
+DEBUG - 2026-04-18 19:20:14 --> class_exists
+DEBUG - 2026-04-18 19:20:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:14 --> DB
+DEBUG - 2026-04-18 21:20:14 --> class_exists
+DEBUG - 2026-04-18 21:20:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:14 --> DB
+DEBUG - 2026-04-18 21:20:14 --> class_exists
+DEBUG - 2026-04-18 21:20:14 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:14 --> Operator/login
+DEBUG - 2026-04-18 21:20:14 --> Total execution time: 0.0172
+DEBUG - 2026-04-18 19:20:18 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:18 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:18 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:18 --> DB
+DEBUG - 2026-04-18 19:20:18 --> class_exists
+DEBUG - 2026-04-18 19:20:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:18 --> DB
+DEBUG - 2026-04-18 21:20:18 --> class_exists
+DEBUG - 2026-04-18 21:20:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:18 --> DB
+DEBUG - 2026-04-18 21:20:18 --> class_exists
+DEBUG - 2026-04-18 21:20:18 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:18 --> Operator/home
+DEBUG - 2026-04-18 19:20:42 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:42 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:42 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:42 --> DB
+DEBUG - 2026-04-18 19:20:42 --> class_exists
+DEBUG - 2026-04-18 19:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> DB
+DEBUG - 2026-04-18 21:20:42 --> class_exists
+DEBUG - 2026-04-18 21:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> DB
+DEBUG - 2026-04-18 21:20:42 --> class_exists
+DEBUG - 2026-04-18 21:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:42 --> Operator/home
+DEBUG - 2026-04-18 19:20:42 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:42 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:42 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:42 --> DB
+DEBUG - 2026-04-18 19:20:42 --> class_exists
+DEBUG - 2026-04-18 19:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> DB
+DEBUG - 2026-04-18 21:20:42 --> class_exists
+DEBUG - 2026-04-18 21:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> DB
+DEBUG - 2026-04-18 21:20:42 --> class_exists
+DEBUG - 2026-04-18 21:20:42 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:42 --> Operator/login
+DEBUG - 2026-04-18 21:20:42 --> Total execution time: 0.0090
+DEBUG - 2026-04-18 19:20:45 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:45 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:45 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:45 --> DB
+DEBUG - 2026-04-18 19:20:45 --> class_exists
+DEBUG - 2026-04-18 19:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> DB
+DEBUG - 2026-04-18 21:20:45 --> class_exists
+DEBUG - 2026-04-18 21:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> DB
+DEBUG - 2026-04-18 21:20:45 --> class_exists
+DEBUG - 2026-04-18 21:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:45 --> Operator/home
+DEBUG - 2026-04-18 19:20:45 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:45 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:45 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:45 --> DB
+DEBUG - 2026-04-18 19:20:45 --> class_exists
+DEBUG - 2026-04-18 19:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> DB
+DEBUG - 2026-04-18 21:20:45 --> class_exists
+DEBUG - 2026-04-18 21:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> DB
+DEBUG - 2026-04-18 21:20:45 --> class_exists
+DEBUG - 2026-04-18 21:20:45 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:45 --> Operator/login
+DEBUG - 2026-04-18 21:20:45 --> Total execution time: 0.0127
+DEBUG - 2026-04-18 19:20:47 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:47 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:47 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:47 --> DB
+DEBUG - 2026-04-18 19:20:47 --> class_exists
+DEBUG - 2026-04-18 19:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> DB
+DEBUG - 2026-04-18 21:20:47 --> class_exists
+DEBUG - 2026-04-18 21:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> DB
+DEBUG - 2026-04-18 21:20:47 --> class_exists
+DEBUG - 2026-04-18 21:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:47 --> Operator/home
+DEBUG - 2026-04-18 19:20:47 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:20:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:20:47 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:20:47 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:20:47 --> DB
+DEBUG - 2026-04-18 19:20:47 --> class_exists
+DEBUG - 2026-04-18 19:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> DB
+DEBUG - 2026-04-18 21:20:47 --> class_exists
+DEBUG - 2026-04-18 21:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> DB
+DEBUG - 2026-04-18 21:20:47 --> class_exists
+DEBUG - 2026-04-18 21:20:47 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:20:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:20:47 --> Operator/login
+DEBUG - 2026-04-18 21:20:47 --> Total execution time: 0.0275
+DEBUG - 2026-04-18 19:21:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:21:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:21:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:21:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:21:56 --> DB
+DEBUG - 2026-04-18 19:21:56 --> class_exists
+DEBUG - 2026-04-18 19:21:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:21:56 --> DB
+DEBUG - 2026-04-18 21:21:56 --> class_exists
+DEBUG - 2026-04-18 21:21:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:21:56 --> DB
+DEBUG - 2026-04-18 21:21:56 --> class_exists
+DEBUG - 2026-04-18 21:21:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:21:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:21:56 --> Operator/home
+DEBUG - 2026-04-18 19:23:09 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:23:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:23:09 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:23:09 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:23:09 --> DB
+DEBUG - 2026-04-18 19:23:09 --> class_exists
+DEBUG - 2026-04-18 19:23:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:09 --> DB
+DEBUG - 2026-04-18 21:23:09 --> class_exists
+DEBUG - 2026-04-18 21:23:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:09 --> DB
+DEBUG - 2026-04-18 21:23:09 --> class_exists
+DEBUG - 2026-04-18 21:23:09 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:09 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:23:09 --> Operator/home
+DEBUG - 2026-04-18 19:23:56 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:23:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:23:56 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:23:56 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:23:56 --> DB
+DEBUG - 2026-04-18 19:23:56 --> class_exists
+DEBUG - 2026-04-18 19:23:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:56 --> DB
+DEBUG - 2026-04-18 21:23:56 --> class_exists
+DEBUG - 2026-04-18 21:23:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:56 --> DB
+DEBUG - 2026-04-18 21:23:56 --> class_exists
+DEBUG - 2026-04-18 21:23:56 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:23:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:23:56 --> Operator/home
+DEBUG - 2026-04-18 21:23:56 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysadmin123456789012345678901234', '91', '1', '2026/04/18 21:23:56')
+DEBUG - 2026-04-18 21:23:56 --> Total execution time: 0.0453
+DEBUG - 2026-04-18 19:25:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:25:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:25:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:25:19 --> DB
+DEBUG - 2026-04-18 19:25:19 --> class_exists
+DEBUG - 2026-04-18 19:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> DB
+DEBUG - 2026-04-18 21:25:19 --> class_exists
+DEBUG - 2026-04-18 21:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> DB
+DEBUG - 2026-04-18 21:25:19 --> class_exists
+DEBUG - 2026-04-18 21:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:25:19 --> Operator/logout
+DEBUG - 2026-04-18 21:25:19 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysadmin123456789012345678901234', '92', '1', '2026/04/18 21:25:19')
+DEBUG - 2026-04-18 19:25:19 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:25:19 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:25:19 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:25:19 --> DB
+DEBUG - 2026-04-18 19:25:19 --> class_exists
+DEBUG - 2026-04-18 19:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> DB
+DEBUG - 2026-04-18 21:25:19 --> class_exists
+DEBUG - 2026-04-18 21:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> DB
+DEBUG - 2026-04-18 21:25:19 --> class_exists
+DEBUG - 2026-04-18 21:25:19 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:25:19 --> Operator/login
+DEBUG - 2026-04-18 21:25:19 --> Total execution time: 0.0152
+DEBUG - 2026-04-18 19:25:27 --> UTF-8 Support Enabled
+DEBUG - 2026-04-18 19:25:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2026-04-18 19:25:27 --> Config file loaded: /var/www/html/QT/application/config/value.php
+DEBUG - 2026-04-18 19:25:27 --> Config file loaded: /var/www/html/QT/application/config/access_roles.php
+DEBUG - 2026-04-18 19:25:27 --> DB
+DEBUG - 2026-04-18 19:25:27 --> class_exists
+DEBUG - 2026-04-18 19:25:27 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:27 --> DB
+DEBUG - 2026-04-18 21:25:27 --> class_exists
+DEBUG - 2026-04-18 21:25:27 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:27 --> DB
+DEBUG - 2026-04-18 21:25:27 --> class_exists
+DEBUG - 2026-04-18 21:25:27 --> $file_path /var/www/html/QT/application/config/database.php
+DEBUG - 2026-04-18 21:25:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2026-04-18 21:25:27 --> Operator/home
+DEBUG - 2026-04-18 21:25:27 --> INSERT INTO `t_activity` (`user_hash`, `activity_code`, `create_by`, `create_at`) VALUES ('sysope123456789012345678901234', '91', '2', '2026/04/18 21:25:27')
+DEBUG - 2026-04-18 21:25:27 --> Total execution time: 0.0294

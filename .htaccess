@@ -1,0 +1,15 @@
+#RedirectMatch ^/QT/Client/regEmail/.{32}$ /QT/Client/icoFinish
+#RedirectMatch ^/QT/Client/.{32}$ /QT/Client/icoFinish
+#RedirectMatch ^/QT/Agent/regEmail/.{32}$ /QT/Client/icoFinish
+#RedirectMatch ^/QT/Agent/.{32}$ /QT/Client/icoFinish
+#RedirectMatch ^/QT/Client/viewBtcAddr.*$ /QT/Client/icoFinish
+#RedirectMatch ^/QT/Client/addOrder.*$ /QT/Client/icoFinish
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|.+\.html$|.+\.css$|.+\.js$|.+\.png$|.+\.jpg$|.+\.pdf$|robots\.txt)
+RewriteRule ^(.*)$ /QT/index.php/$1 [L]
+
+#RewriteRule ^(.*)$ /QT/Operator/login.php/$1 [L]
+# Https redirect setting
+# RewriteCond %{HTTPS} off
+# RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
